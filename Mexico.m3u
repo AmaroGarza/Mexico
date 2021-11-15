@@ -499,3 +499,12 @@ http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145780
 http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145779
 #EXTINF:-1 tvg-ID="" tvg-name="LA | Starz Encore FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f89eb81c622b3c67bb0a1d22ad57f9e.png" group-title="ⓣⓥ || LATINO",LA | Starz Encore FHD
 http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145778
+#EXTINF:-1 tvg-ID="telemundo.us" tvg-name="US | TELEMUNDO" tvg-logo="https://logo-iptvpro.com/LOGO/USA/telemundo_m.png" group-title="ⓣⓥ || U.S.A",US | TELEMUNDO
+http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/122004
+#EXTINF:-1 tvg-ID="" tvg-name="US | UNIMAS" tvg-logo="https://logo-iptvpro.com/LOGO/USA/s29058_ll_h3_aa.png" group-title="ⓣⓥ || U.S.A",US | UNIMAS
+http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/122005
+#EXTINF:-1 tvg-ID="univision.us" tvg-name="US | UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/langfr-300px-Logo_Univision_2019.svg.png" group-title="ⓣⓥ || U.S.A",US | UNIVISION
+http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/122006
+#EXTINF:-1 tvg-ID="espndeportes.us" tvg-name="US | ESPN DEPORTES" tvg-logo="https://logo-iptvpro.com/LOGO/USA/espn_deportes_us.png" group-title="ⓣⓥ || U.S.A",US | ESPN DEPORTES
+http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/122007
+
