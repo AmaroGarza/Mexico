@@ -1,510 +1,1398 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="MX | A&E FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1f1abd2161e471de993e94f3bb131977.png" group-title="ⓣⓥ || LATINO",MX | A&E FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146304
-#EXTINF:-1 tvg-ID="" tvg-name="MX A&E FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1f1abd2161e471de993e94f3bb131977.png" group-title="ⓣⓥ || LATINO",MX A&E FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146303
-#EXTINF:-1 tvg-ID="" tvg-name="MX | ADN 40 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8916a14d4e2a1c7a5f093901bf95d258.png" group-title="ⓣⓥ || LATINO",MX | ADN 40 FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146302
-#EXTINF:-1 tvg-ID="" tvg-name="MX | AMC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db7232f349d96b8ed9fae2fcacaaa50e.png" group-title="ⓣⓥ || LATINO",MX | AMC FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146301
-#EXTINF:-1 tvg-ID="" tvg-name="MX | ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2fc38dda266fba06298d4ec5d2c1a187.png" group-title="ⓣⓥ || LATINO",MX | ANIMAL PLANET FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146300
-#EXTINF:-1 tvg-ID="" tvg-name="MX ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2fc38dda266fba06298d4ec5d2c1a187.png" group-title="ⓣⓥ || LATINO",MX ANIMAL PLANET FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146299
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Antena 3 Internacional HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a963b3d472ac871390c313a1e1c34871.png" group-title="ⓣⓥ || LATINO",MX | Antena 3 Internacional HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146298
-#EXTINF:-1 tvg-ID="" tvg-name="MX | AXN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2cca840e4f54f73b09a45657f2595507.png" group-title="ⓣⓥ || LATINO",MX | AXN FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146297
-#EXTINF:-1 tvg-ID="" tvg-name="MX | AyM Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9d78d62bec125d99fbd830f62262447f.png" group-title="ⓣⓥ || LATINO",MX | AyM Sports HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146296
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Az Cinema HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dae89e688e6ba755b1e478acffb54190.png" group-title="ⓣⓥ || LATINO",MX | Az Cinema HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146295
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Az Clic HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3b72f6a605d555147d432cb35ebbf80a.png" group-title="ⓣⓥ || LATINO",MX | Az Clic HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146294
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Az Corazon FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d0d9608fb753badbadd6a8dbc1496e8.png" group-title="ⓣⓥ || LATINO",MX | Az Corazon FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146293
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Az Mundo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aedf232d53962c482c765dcf6ab1d95.png" group-title="ⓣⓥ || LATINO",MX | Az Mundo FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146292
-#EXTINF:-1 tvg-ID="" tvg-name="MX | AZTECA 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/72ffa19b20708ee5d84c6f01c202ba9a.png" group-title="ⓣⓥ || LATINO",MX | AZTECA 7 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146291
-#EXTINF:-1 tvg-ID="" tvg-name="MX | AZTECA Uno FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/40ffc9b6f229e4f18593b68daeb65d87.png" group-title="ⓣⓥ || LATINO",MX | AZTECA Uno FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146290
-#EXTINF:-1 tvg-ID="" tvg-name="MX | BabyFirst TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4efc3a6d1898e531c086c8b58fdb0efd.png" group-title="ⓣⓥ || LATINO",MX | BabyFirst TV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146289
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Bandamax FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b1638d003ea8a742796ed86a2c29c77.png" group-title="ⓣⓥ || LATINO",MX | Bandamax FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146288
-#EXTINF:-1 tvg-ID="" tvg-name="MX | BBC World News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8086578a89bb74b19467f6d1c6ba3881.png" group-title="ⓣⓥ || LATINO",MX | BBC World News HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146287
-#EXTINF:-1 tvg-ID="" tvg-name="MX | BitMe FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d09e68cd4fec58ea4c23bc22e4047b26.png" group-title="ⓣⓥ || LATINO",MX | BitMe FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146286
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Bloomberg TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c4b6f75ada13bb2f7f6d7003acdd019.png" group-title="ⓣⓥ || LATINO",MX | Bloomberg TV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146285
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Boomerang FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4e76be680174d4018a13515e386992e1.png" group-title="ⓣⓥ || LATINO",MX | Boomerang FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146284
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7cd1ffc3c61749c8415cbb128068c8a5.jpg" group-title="ⓣⓥ || LATINO",MX | Canal 4 FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146283
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/77a6c741aaea77417a1d6cbc5fcd18c2.png" group-title="ⓣⓥ || LATINO",MX | Canal 5 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146282
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d03e153671d7e94d75f2256a3eae491.png" group-title="ⓣⓥ || LATINO",MX | Canal 6 FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146281
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 8 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a5ca82cd6d404f8d2dd52177fee09745.png" group-title="ⓣⓥ || LATINO",MX | Canal 8 FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146280
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 10 Cancun HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acaaac076bc2325488fbdbe92a2b7b9a.png" group-title="ⓣⓥ || LATINO",MX | Canal 10 Cancun HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146279
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 44 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fbb79eb422230cc99089490dc3d3e3c9.png" group-title="ⓣⓥ || LATINO",MX | Canal 44 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146278
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f51c3bc985994d3ea01824291571f2f.png" group-title="ⓣⓥ || LATINO",MX | Cartoon Network HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146277
-#EXTINF:-1 tvg-ID="" tvg-name="MX Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f51c3bc985994d3ea01824291571f2f.png" group-title="ⓣⓥ || LATINO",MX Cartoon Network HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146276
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Cinecanal HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3c3bec641194b6d636508a46f57676bd.png" group-title="ⓣⓥ || LATINO",MX | Cinecanal HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146275
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Cinemax FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0625bacc899385658081029dbad58bea.png" group-title="ⓣⓥ || LATINO",MX | Cinemax FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146274
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Claro Cinema HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1dfd6f5ef14ff570838c7117824342c.png" group-title="ⓣⓥ || LATINO",MX | Claro Cinema HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146273
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Claro Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/bb351e39537b899dd08f69bbe1d3d8c5.png" group-title="ⓣⓥ || LATINO",MX | Claro Sports HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146272
-#EXTINF:-1 tvg-ID="" tvg-name="MX | CNN en Espanol HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png" group-title="ⓣⓥ || LATINO",MX | CNN en Espanol HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146271
-#EXTINF:-1 tvg-ID="" tvg-name="MX | CNN International HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8ce3f9e8e60e7f7b6c907c1ff74d7c0f.png" group-title="ⓣⓥ || LATINO",MX | CNN International HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146270
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Comedy Central FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9f09982c9fc7f833cb4f14c6f1e0e8f4.png" group-title="ⓣⓥ || LATINO",MX | Comedy Central FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146269
-#EXTINF:-1 tvg-ID="" tvg-name="MX | De Pelicula HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/23fad530f5b015e7a19d64a9375d2539.png" group-title="ⓣⓥ || LATINO",MX | De Pelicula HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146268
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Discovery H&H HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cde27562363b262b4c65e2080543facb.png" group-title="ⓣⓥ || LATINO",MX | Discovery H&H HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146267
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Discovery Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14efc3962a7c656763a5cd0185333238.png" group-title="ⓣⓥ || LATINO",MX | Discovery Kids HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146266
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Discovery Science HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5f470d3d6be213306838028887def939.png" group-title="ⓣⓥ || LATINO",MX | Discovery Science HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146265
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Discovery Theater FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d2ab682780c26660017668636579c6f.png" group-title="ⓣⓥ || LATINO",MX | Discovery Theater FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146264
-#EXTINF:-1 tvg-ID="" tvg-name="MX Discovery Theater FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d2ab682780c26660017668636579c6f.png" group-title="ⓣⓥ || LATINO",MX Discovery Theater FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146263
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Discovery TLC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="ⓣⓥ || LATINO",MX | Discovery TLC FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146262
-#EXTINF:-1 tvg-ID="" tvg-name="MX Discovery TLC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="ⓣⓥ || LATINO",MX Discovery TLC FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146261
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Discovery Turbo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/37847bf1f1780679d6b96f9fac8a4d17.png" group-title="ⓣⓥ || LATINO",MX | Discovery Turbo HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146260
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Discovery World FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b9aa3947397c52a219b1e6ef24a653ef.png" group-title="ⓣⓥ || LATINO",MX | Discovery World FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146259
-#EXTINF:-1 tvg-ID="" tvg-name="MX Discovery World FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b9aa3947397c52a219b1e6ef24a653ef.png" group-title="ⓣⓥ || LATINO",MX Discovery World FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146258
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Disney Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="ⓣⓥ || LATINO",MX | Disney Channel FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146257
-#EXTINF:-1 tvg-ID="" tvg-name="MX Disney Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="ⓣⓥ || LATINO",MX Disney Channel FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146256
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Disney Junior FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b5069c173bae240c9ed582b2cc41caf7.png" group-title="ⓣⓥ || LATINO",MX | Disney Junior FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146255
-#EXTINF:-1 tvg-ID="" tvg-name="MX Disney Junior FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b5069c173bae240c9ed582b2cc41caf7.png" group-title="ⓣⓥ || LATINO",MX Disney Junior FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146254
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Disney XD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/694b6ceb7f5f81a512dbb7436923464a.png" group-title="ⓣⓥ || LATINO",MX | Disney XD FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146253
-#EXTINF:-1 tvg-ID="" tvg-name="MX Disney XD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/694b6ceb7f5f81a512dbb7436923464a.png" group-title="ⓣⓥ || LATINO",MX Disney XD FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146252
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Distrito Comedia FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f9f1233912470c6790d25f2cba87f227.png" group-title="ⓣⓥ || LATINO",MX | Distrito Comedia FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146251
-#EXTINF:-1 tvg-ID="" tvg-name="MX | DW" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c437451da14714387fec79725145ce4f.png" group-title="ⓣⓥ || LATINO",MX | DW
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146250
-#EXTINF:-1 tvg-ID="" tvg-name="MX | E! HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0bf834823473ab99f293633877475bdf.png" group-title="ⓣⓥ || LATINO",MX | E! HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146249
-#EXTINF:-1 tvg-ID="" tvg-name="MX E! HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0bf834823473ab99f293633877475bdf.png" group-title="ⓣⓥ || LATINO",MX E! HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146248
-#EXTINF:-1 tvg-ID="" tvg-name="MX | El Financiero Bloomberg HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc629c59738ca368c6d28ebe2b60305b.png" group-title="ⓣⓥ || LATINO",MX | El Financiero Bloomberg HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146247
-#EXTINF:-1 tvg-ID="" tvg-name="MX | El Gourmet FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/9f05700b66cd543161a8d229fb387185.png" group-title="ⓣⓥ || LATINO",MX | El Gourmet FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146246
-#EXTINF:-1 tvg-ID="" tvg-name="MX | ESPN 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="ⓣⓥ || LATINO",MX | ESPN 3 FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146245
-#EXTINF:-1 tvg-ID="" tvg-name="MX ESPN 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="ⓣⓥ || LATINO",MX ESPN 3 FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146244
-#EXTINF:-1 tvg-ID="" tvg-name="MX | ESPN Dos FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/669589f86e5d9edc472f75011f9c1055.png" group-title="ⓣⓥ || LATINO",MX | ESPN Dos FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146243
-#EXTINF:-1 tvg-ID="" tvg-name="MX ESPN Dos FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/669589f86e5d9edc472f75011f9c1055.png" group-title="ⓣⓥ || LATINO",MX ESPN Dos FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146242
-#EXTINF:-1 tvg-ID="" tvg-name="MX | ESPN Extra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" group-title="ⓣⓥ || LATINO",MX | ESPN Extra HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146241
-#EXTINF:-1 tvg-ID="" tvg-name="MX ESPN Extra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" group-title="ⓣⓥ || LATINO",MX ESPN Extra HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146240
-#EXTINF:-1 tvg-ID="" tvg-name="MX | ESPN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="ⓣⓥ || LATINO",MX | ESPN HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146239
-#EXTINF:-1 tvg-ID="" tvg-name="MX ESPN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="ⓣⓥ || LATINO",MX ESPN HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146238
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Europa Europa FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d8a7af6396e12a8262d492c16939a5b.png" group-title="ⓣⓥ || LATINO",MX | Europa Europa FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146237
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Film & Arts FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e0c9135ce1ddc8e44f908cab23545722.png" group-title="ⓣⓥ || LATINO",MX | Film & Arts FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146236
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Food Network FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/08286d602ec717efd60a40734655cf80.png" group-title="ⓣⓥ || LATINO",MX | Food Network FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146235
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Foro TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/33928e5695500036179110e96fd5304d.png" group-title="ⓣⓥ || LATINO",MX | Foro TV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146234
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Fox News HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",MX | Fox News HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146233
-#EXTINF:-1 tvg-ID="" tvg-name="MX | France 24 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ea130cc3a9970f58dc065142be9ff96.png" group-title="ⓣⓥ || LATINO",MX | France 24 FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146232
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Fuel TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/183ac30c38d974c55c1361650ee3b8c2.png" group-title="ⓣⓥ || LATINO",MX | Fuel TV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146231
-#EXTINF:-1 tvg-ID="" tvg-name="MX | FX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/224e37d5a4fa9d0c25dc6704712f739f.png" group-title="ⓣⓥ || LATINO",MX | FX FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146230
-#EXTINF:-1 tvg-ID="" tvg-name="MX | FXM FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c0024cd2cc878f1c83018c0d076a90aa.png" group-title="ⓣⓥ || LATINO",MX | FXM FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146229
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Glitz HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ae7fc579a89a3e135c34e8d968fdf59.png" group-title="ⓣⓥ || LATINO",MX | Glitz HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146228
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Golden Edge FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/31627ce18ed4c1315831d876d8fb84d7.png" group-title="ⓣⓥ || LATINO",MX | Golden Edge FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146227
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Golden FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/9d4e2a9fe5bfba70bdbfdaec4166df16.png" group-title="ⓣⓥ || LATINO",MX | Golden FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146226
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Golden Plus FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a08cc6163e53b2569acec7eb03e05271.png" group-title="ⓣⓥ || LATINO",MX | Golden Plus FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146225
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Golden Premier 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/9e93d8ae4bd849c6f6c2c0b35a321b65.png" group-title="ⓣⓥ || LATINO",MX | Golden Premier 2 FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146224
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Golden Premier FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3259e1f443c20457eaa5e0c34852d23c.png" group-title="ⓣⓥ || LATINO",MX | Golden Premier FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146223
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Golf Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0f3ec53e3a88942f81f84686e3f90ef8.png" group-title="ⓣⓥ || LATINO",MX | Golf Channel HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146222
-#EXTINF:-1 tvg-ID="" tvg-name="MX | History HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e534aac3780d012e249532ed727cfa26.png" group-title="ⓣⓥ || LATINO",MX | History HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146221
-#EXTINF:-1 tvg-ID="" tvg-name="MX History HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e534aac3780d012e249532ed727cfa26.png" group-title="ⓣⓥ || LATINO",MX History HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146220
-#EXTINF:-1 tvg-ID="" tvg-name="MX | HLN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/2cac6b4f51dd30364c0ee2aa48bba847.png" group-title="ⓣⓥ || LATINO",MX | HLN HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146219
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Hola TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8044fffe110f6d73bd82305a5f8f5ff1.png" group-title="ⓣⓥ || LATINO",MX | Hola TV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146218
-#EXTINF:-1 tvg-ID="" tvg-name="MX | I Sat HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7341c1c672a0aad7fea945234ac22533.png" group-title="ⓣⓥ || LATINO",MX | I Sat HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146217
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Imagen TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9ee680172973be02359002c5b3a44ec3.png" group-title="ⓣⓥ || LATINO",MX | Imagen TV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146216
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Ingenio TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0b87363d98d74005e7a5cc8bd8b897e4.png" group-title="ⓣⓥ || LATINO",MX | Ingenio TV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146215
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Investigation Discovery FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d572680055d9dd1912fd85f3a92d6ae.png" group-title="ⓣⓥ || LATINO",MX | Investigation Discovery FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146214
-#EXTINF:-1 tvg-ID="" tvg-name="MX Investigation Discovery FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d572680055d9dd1912fd85f3a92d6ae.png" group-title="ⓣⓥ || LATINO",MX Investigation Discovery FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146213
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Justicia TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d958cac6b2c650b9149e1a673174be27.jpg" group-title="ⓣⓥ || LATINO",MX | Justicia TV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146212
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Las Estrellas FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be65fcb335b137f9bbcf867472dafea9.png" group-title="ⓣⓥ || LATINO",MX | Las Estrellas FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146211
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Lifetime FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d07843641c9a30bf4fdaa2825437dc80.png" group-title="ⓣⓥ || LATINO",MX | Lifetime FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146210
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Mas Chic FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2fc98cc30c34f63d0880f519ef5cb274.png" group-title="ⓣⓥ || LATINO",MX | Mas Chic FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146207
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Milenio TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a873a99ddc126b9074d6c7757d9b6fe.png" group-title="ⓣⓥ || LATINO",MX | Milenio TV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146206
-#EXTINF:-1 tvg-ID="" tvg-name="MX | MTV 00s HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f651d3f16fe5ec37f895bff3a5920dda.png" group-title="ⓣⓥ || LATINO",MX | MTV 00s HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146204
-#EXTINF:-1 tvg-ID="" tvg-name="MX | MTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ffc6e7c3e3906635330b08fd2f6b977d.png" group-title="ⓣⓥ || LATINO",MX | MTV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146203
-#EXTINF:-1 tvg-ID="" tvg-name="MX | MTV Hits HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d629fcb041838225de866a63a055353e.png" group-title="ⓣⓥ || LATINO",MX | MTV Hits HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146202
-#EXTINF:-1 tvg-ID="" tvg-name="MX MTV Hits HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d629fcb041838225de866a63a055353e.png" group-title="ⓣⓥ || LATINO",MX MTV Hits HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146201
-#EXTINF:-1 tvg-ID="" tvg-name="MX | MTV Live FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/2bd71aa02833d403385d52f26700f74b.png" group-title="ⓣⓥ || LATINO",MX | MTV Live FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146200
-#EXTINF:-1 tvg-ID="" tvg-name="MX MTV Live FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/2bd71aa02833d403385d52f26700f74b.png" group-title="ⓣⓥ || LATINO",MX MTV Live FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146199
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Multimedios Plus HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",MX | Multimedios Plus HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146198
-#EXTINF:-1 tvg-ID="" tvg-name="MX | MVS TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/56b6b7331cbedd808cd6128e8da0207c.png" group-title="ⓣⓥ || LATINO",MX | MVS TV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146197
-#EXTINF:-1 tvg-ID="" tvg-name="MX | NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ec252b9c1be69a68011aa7653391d25c.png" group-title="ⓣⓥ || LATINO",MX | NAT GEO FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146196
-#EXTINF:-1 tvg-ID="" tvg-name="MX NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ec252b9c1be69a68011aa7653391d25c.png" group-title="ⓣⓥ || LATINO",MX NAT GEO FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146195
-#EXTINF:-1 tvg-ID="" tvg-name="MX | NAT GEO Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/41e1976145598afe4060e0c6740cf3f3.png" group-title="ⓣⓥ || LATINO",MX | NAT GEO Kids FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146194
-#EXTINF:-1 tvg-ID="" tvg-name="MX NAT GEO Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/41e1976145598afe4060e0c6740cf3f3.png" group-title="ⓣⓥ || LATINO",MX NAT GEO Kids FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146193
-#EXTINF:-1 tvg-ID="" tvg-name="MX | NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2728352914704f49d99538bee658cc4a.png" group-title="ⓣⓥ || LATINO",MX | NAT GEO Wild FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146192
-#EXTINF:-1 tvg-ID="" tvg-name="MX NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2728352914704f49d99538bee658cc4a.png" group-title="ⓣⓥ || LATINO",MX NAT GEO Wild FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146191
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Nick Junior HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a201883ac1db791786d61ce8ad0a3c88.png" group-title="ⓣⓥ || LATINO",MX | Nick Junior HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146190
-#EXTINF:-1 tvg-ID="" tvg-name="MX | nickelodeon HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ffe70df63cfe2611a5b1b5fa96984394.png" group-title="ⓣⓥ || LATINO",MX | nickelodeon HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146189
-#EXTINF:-1 tvg-ID="" tvg-name="MX | NickMusic HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f0b6049bc99ad5e7ad70ccff63b81e79.png" group-title="ⓣⓥ || LATINO",MX | NickMusic HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146188
-#EXTINF:-1 tvg-ID="" tvg-name="MX NickMusic HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f0b6049bc99ad5e7ad70ccff63b81e79.png" group-title="ⓣⓥ || LATINO",MX NickMusic HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146187
-#EXTINF:-1 tvg-ID="" tvg-name="MX | NTN 24 Internacional HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6f734a5f88ebce5733759e79b2a6dfad.png" group-title="ⓣⓥ || LATINO",MX | NTN 24 Internacional HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146186
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Nueve FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/8b5f372f4983c376dc954818cf6889fe.png" group-title="ⓣⓥ || LATINO",MX | Nueve FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146185
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Once Mexico HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/eeaaa6758c4241bf0bb03fe401e17cb2.png" group-title="ⓣⓥ || LATINO",MX | Once Mexico HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146184
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Paramount Network FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8fd6d2dff8d7a18160e0b6823dec6e54.jpg" group-title="ⓣⓥ || LATINO",MX | Paramount Network FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146183
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Sony Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/681d83765d2daf11d1138045141f9d5a.png" group-title="ⓣⓥ || LATINO",MX | Sony Channel FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146182
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Space HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",MX | Space HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146181
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Star Action HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/485d10b547f817c2b27279e6945a54aa.png" group-title="ⓣⓥ || LATINO",MX | Star Action HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146180
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Star Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/229b1dcec790fc438218d1dfeade4e45.png" group-title="ⓣⓥ || LATINO",MX | Star Channel FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146179
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Star Cinema FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/716fe2c32927876830056ae4c845f1c6.png" group-title="ⓣⓥ || LATINO",MX | Star Cinema FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146178
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Star Classics FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5230c6c41ea7f1e5f6a0035fe16f035f.png" group-title="ⓣⓥ || LATINO",MX | Star Classics FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146177
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Star Hits HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f51534ff909e578198d8531e18974346.png" group-title="ⓣⓥ || LATINO",MX | Star Hits HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146176
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Star Life FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cd1323cad3dd2d1c593d08d2fd52d987.png" group-title="ⓣⓥ || LATINO",MX | Star Life FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146175
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Star Series FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bf2a41d8a9e4b7045ca64dea41c4799e.png" group-title="ⓣⓥ || LATINO",MX | Star Series FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146174
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Studio Universal FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c535ec7844849371e43f872e6337a472.png" group-title="ⓣⓥ || LATINO",MX | Studio Universal FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146173
-#EXTINF:-1 tvg-ID="" tvg-name="MX | SYFY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fcefd652cedee1c107acd5ff08569ebc.png" group-title="ⓣⓥ || LATINO",MX | SYFY FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146172
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TBS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e165b01f05e7125d5db3eb5f067d8d9c.png" group-title="ⓣⓥ || LATINO",MX | TBS HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146171
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TCM HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1b950d84f4cca742c18c7b61128e44d7.png" group-title="ⓣⓥ || LATINO",MX | TCM HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146170
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TeenNick FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1fa4662bdb978937bc2613f72051a35f.png" group-title="ⓣⓥ || LATINO",MX | TeenNick FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146169
-#EXTINF:-1 tvg-ID="" tvg-name="MX TeenNick FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1fa4662bdb978937bc2613f72051a35f.png" group-title="ⓣⓥ || LATINO",MX TeenNick FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146168
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TeleFormula FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="ⓣⓥ || LATINO",MX | TeleFormula FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146167
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Telehit Musica FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ddd07a323bd82e3c8ce03f30dba9c97f.png" group-title="ⓣⓥ || LATINO",MX | Telehit Musica FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146166
-#EXTINF:-1 tvg-ID="" tvg-name="MX Telehit Musica FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ddd07a323bd82e3c8ce03f30dba9c97f.png" group-title="ⓣⓥ || LATINO",MX Telehit Musica FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146165
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Telemundo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f458490b0af13139381f52b2f894557.png" group-title="ⓣⓥ || LATINO",MX | Telemundo HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146164
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Televisa Networks HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fbe55ec25fc899d2e3627510717816f7.png" group-title="ⓣⓥ || LATINO",MX | Televisa Networks HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146163
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Tlnovelas FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a5aab5cf9b5929219698bc9486baa80c.png" group-title="ⓣⓥ || LATINO",MX | Tlnovelas FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146162
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TNT Series FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/2d31036601046a0b55481cce7da5f81d.png" group-title="ⓣⓥ || LATINO",MX | TNT Series FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146161
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TNT Sports FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6d960d2648357c1dae2e00680e87135f.png" group-title="ⓣⓥ || LATINO",MX | TNT Sports FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146160
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Tooncast HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/86089cab009b32659541202d94cca052.png" group-title="ⓣⓥ || LATINO",MX | Tooncast HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146159
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Tru TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3eb2f8e8deccf4808356b95279db3916.png" group-title="ⓣⓥ || LATINO",MX | Tru TV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146158
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b861cb6a74cbb1ff2b70855e9f56a24.png" group-title="ⓣⓥ || LATINO",MX | TUDN FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146157
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c954114276a3227f641854bc85458287.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 1 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146156
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/248417bd6bc00b14c92d9da58ede1792.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 2 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146155
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0e8879bd8260a1eac133f18e6c016a59.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 3 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146154
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f93d047728f2b90b85b2706a1b4fc9e2.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 4 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146153
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/270e68793274397e7211ad299d019dc6.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 5 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146152
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/70b8220be05cb592a877b5f792731578.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 6 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146151
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da5dba089b7ad087f93de1a399b3af26.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 7 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146150
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4743e5f1ba602f8d26b9baab95e573b2.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 8 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146149
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 9 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/338ba19e39607de97f925215578f504a.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 9 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146148
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 10 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e05768bb9365f3bdb33101d8cde1714.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 10 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146147
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TUDN xtra 11 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/47c40aff0900c09dc9bf652a8e60ebc5.png" group-title="ⓣⓥ || LATINO",MX | TUDN xtra 11 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146146
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TV Mas FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3a6fba7a1a0c19dd68d52d09c4d81c32.png" group-title="ⓣⓥ || LATINO",MX | TV Mas FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146145
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TV Mexiquense FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4ae84b977b110d16af3ad499dcd835d3.png" group-title="ⓣⓥ || LATINO",MX | TV Mexiquense FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146144
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TVC Delay FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/42f919013dc887642edafdc4dff8bc31.png" group-title="ⓣⓥ || LATINO",MX | TVC Delay FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146143
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TVC Deportes FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c96a64148f8d48eafdc5ab59f824a20e.png" group-title="ⓣⓥ || LATINO",MX | TVC Deportes FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146142
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TVE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/778072092fd5b7924dac08c0dc3aa5d1.jpg" group-title="ⓣⓥ || LATINO",MX | TVE HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146141
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TVE Star HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ce9decba19f1e47cc39caa363416cdc5.png" group-title="ⓣⓥ || LATINO",MX | TVE Star HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146140
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Unicable FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a2d0cf3868bdf1e9a1c59a848eb0e8ea.png" group-title="ⓣⓥ || LATINO",MX | Unicable FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146139
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Universal TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/189cb49289f0b70c4285f55cede917c2.png" group-title="ⓣⓥ || LATINO",MX | Universal TV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146138
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Warner Bros FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a82db4330339db82492965b7c1988734.png" group-title="ⓣⓥ || LATINO",MX | Warner Bros FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146137
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | Morbido TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52cd8bc0ebc97b48ca09202a5fd9f80d.png" group-title="ⓣⓥ || LATINO",ARG | Morbido TV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146397
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | History 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fa2de70a163e8982274b0f5245d2a919.png" group-title="ⓣⓥ || LATINO",ARG | History 2 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146409
-#EXTINF:-1 tvg-ID="" tvg-name="ARG History 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fa2de70a163e8982274b0f5245d2a919.png" group-title="ⓣⓥ || LATINO",ARG History 2 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146408
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | HBO 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0354b88d1e1705b37db782a1676d4898.png" group-title="ⓣⓥ || LATINO",ARG | HBO 2 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146417
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | HBO Family HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/43407a8cf87ba9025bd127cd0f7a70c1.png" group-title="ⓣⓥ || LATINO",ARG | HBO Family HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146416
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | HBO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/da711ff83b86da2308582305d76497b0.png" group-title="ⓣⓥ || LATINO",ARG | HBO HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146415
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | HBO Mundi HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1e20aa6fe1f1e7469316223a7226fce0.png" group-title="ⓣⓥ || LATINO",ARG | HBO Mundi HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146414
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | HBO Plus HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1ebbff6713a385ee77b25166f506f15b.png" group-title="ⓣⓥ || LATINO",ARG | HBO Plus HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146413
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | HBO Pop HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bff69410e86e35041f8a86d296d5cbb9.png" group-title="ⓣⓥ || LATINO",ARG | HBO Pop HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146412
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | HBO Signature HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a9f352a4eaf65a08bcfb5e479ed94b35.png" group-title="ⓣⓥ || LATINO",ARG | HBO Signature HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146411
-#EXTINF:-1 tvg-ID="" tvg-name="ARG | HBO Xtreme FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7241391c5fd30f0e9f8414bf2b670b49.png" group-title="ⓣⓥ || LATINO",ARG | HBO Xtreme FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146410
-#EXTINF:-1 tvg-ID="" tvg-name="SUR | HGTV" tvg-logo="https://pbs.twimg.com/profile_images/3564776300/6cfc624f5222a5fa1eb69c877cce580a.png" group-title="ⓣⓥ || LATINO",SUR | HGTV
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146086
-#EXTINF:-1 tvg-ID="" tvg-name="SUR HGTV" tvg-logo="https://pbs.twimg.com/profile_images/3564776300/6cfc624f5222a5fa1eb69c877cce580a.png" group-title="ⓣⓥ || LATINO",SUR HGTV
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146085
-#EXTINF:-1 tvg-ID="" tvg-name="SUR | History Channel" tvg-logo="https://pbs.twimg.com/profile_images/3564776300/6cfc624f5222a5fa1eb69c877cce580a.png" group-title="ⓣⓥ || LATINO",SUR | History Channel
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146084
-#EXTINF:-1 tvg-ID="" tvg-name="SUR History Channel" tvg-logo="https://pbs.twimg.com/profile_images/3564776300/6cfc624f5222a5fa1eb69c877cce580a.png" group-title="ⓣⓥ || LATINO",SUR History Channel
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/146083
-#EXTINF:-1 tvg-ID="" tvg-name="LA | ActionMax FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/564e14814abaebffc45e2c9ef398a2cd.png" group-title="ⓣⓥ || LATINO",LA | ActionMax FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145917
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cine Accion HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cine Accion HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145906
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cine Accion Sagas HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cine Accion Sagas HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145905
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 01 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 01 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145904
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 02 PPV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 02 PPV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145903
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 03 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 03 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145902
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 04 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 04 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145901
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 05 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 05 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145900
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 06 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 06 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145899
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 07 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 07 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145898
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 08 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 08 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145897
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 09 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 09 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145896
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 10 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 10 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145895
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 11 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 11 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145894
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 12 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 12 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145893
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 13 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 13 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145892
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 14 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 14 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145891
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 15 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 15 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145890
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 16 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 16 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145889
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 17 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 17 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145888
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 18 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 18 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145887
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 19 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 19 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145886
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 20 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 20 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145885
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 21 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 21 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145884
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 22 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 22 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145883
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 23 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 23 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145882
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 24 PPV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 24 PPV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145881
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 25 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 25 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145880
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 26 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 26 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145879
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 27 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 27 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145878
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 28 PPV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 28 PPV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145877
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 31 PPV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 31 PPV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145876
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 32 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 32 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145875
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 33 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 33 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145874
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 34 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 34 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145873
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 35 PPV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 35 PPV HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145872
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 36 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 36 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145871
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 37 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 37 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145870
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinema 38 PPV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Cinema 38 PPV FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145869
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinemax Action FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/08ba2b079383d5cceb0234f4820879b2.png" group-title="ⓣⓥ || LATINO",LA | Cinemax Action FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145868
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Cinemax FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/46853ba04466458e995a775b65b5a1b1.png" group-title="ⓣⓥ || LATINO",LA | Cinemax FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145867
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Claro Sports FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57db248870150c2d5a2797bc3ec3ad1d.png" group-title="ⓣⓥ || LATINO",LA | Claro Sports FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145866
-#EXTINF:-1 tvg-ID="" tvg-name="LA | DirecTV Sports 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17cb87788ff5c4d544aa70c39e6d707a.png" group-title="ⓣⓥ || LATINO",LA | DirecTV Sports 2 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145864
-#EXTINF:-1 tvg-ID="" tvg-name="LA | DirecTV Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3d89620398fbdb9d238ed097bd83047a.png" group-title="ⓣⓥ || LATINO",LA | DirecTV Sports HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145863
-#EXTINF:-1 tvg-ID="" tvg-name="LA | DirecTV Sports+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1837897a51d196c78caaecc039a49887.png" group-title="ⓣⓥ || LATINO",LA | DirecTV Sports+ HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145862
-#EXTINF:-1 tvg-ID="" tvg-name="LA | HBO 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png" group-title="ⓣⓥ || LATINO",LA | HBO 2 HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145827
-#EXTINF:-1 tvg-ID="" tvg-name="LA | HBO Family HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bcb5ce199d5817bc957ff6dc510577d2.png" group-title="ⓣⓥ || LATINO",LA | HBO Family HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145826
-#EXTINF:-1 tvg-ID="" tvg-name="LA | HBO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png" group-title="ⓣⓥ || LATINO",LA | HBO FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145825
-#EXTINF:-1 tvg-ID="" tvg-name="LA | HBO Mundi HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png" group-title="ⓣⓥ || LATINO",LA | HBO Mundi HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145824
-#EXTINF:-1 tvg-ID="" tvg-name="LA | HBO Pop FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b59523ce06a7f337e3ec3644f2fbefbd.png" group-title="ⓣⓥ || LATINO",LA | HBO Pop FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145823
-#EXTINF:-1 tvg-ID="" tvg-name="LA | HBO Signature HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png" group-title="ⓣⓥ || LATINO",LA | HBO Signature HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145822
-#EXTINF:-1 tvg-ID="" tvg-name="LA | HBO+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf9a927cee9c2258c2a735e42a940ebc.png" group-title="ⓣⓥ || LATINO",LA | HBO+ HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145821
-#EXTINF:-1 tvg-ID="" tvg-name="LA | MoviePlex FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2d7f2afa066c3d8e643874ece3de5047.png" group-title="ⓣⓥ || LATINO",LA | MoviePlex FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145809
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Mundo+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ⓣⓥ || LATINO",LA | Mundo+ HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145808
-#EXTINF:-1 tvg-ID="" tvg-name="LA | NAT GEO Mundo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b6c489ce95abda2c6ed7c4fd52ec311e.png" group-title="ⓣⓥ || LATINO",LA | NAT GEO Mundo HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145803
-#EXTINF:-1 tvg-ID="" tvg-name="LA NAT GEO Mundo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b6c489ce95abda2c6ed7c4fd52ec311e.png" group-title="ⓣⓥ || LATINO",LA NAT GEO Mundo HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145802
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Showtime East FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3b9541e1f25ff343d7194b45351f0ada.png" group-title="ⓣⓥ || LATINO",LA | Showtime East FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145793
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Star Action FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8017d9d3c64773fe296d5b9069fcc9b3.png" group-title="ⓣⓥ || LATINO",LA | Star Action FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145790
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Star Cinema HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/365d978bc8af92bd6b20d6e03cf5af46.png" group-title="ⓣⓥ || LATINO",LA | Star Cinema HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145789
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Star Classics FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/15186eb3afe8ccdbed25d0f99245f4e5.png" group-title="ⓣⓥ || LATINO",LA | Star Classics FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145788
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Star Comedy FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ea3f0852a77f281ebea8b4ed5888a8bb.png" group-title="ⓣⓥ || LATINO",LA | Star Comedy FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145787
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Star Fun FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8a84221f240e53892012418c19322042.png" group-title="ⓣⓥ || LATINO",LA | Star Fun FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145786
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Star Hits FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e4c3c2b1d48d34be695b84e0f6f5c635.png" group-title="ⓣⓥ || LATINO",LA | Star Hits FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145785
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Star Life HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a567ad3daf388459e5546b70d20f0f6.png" group-title="ⓣⓥ || LATINO",LA | Star Life HD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145784
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Star Series FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/900de827a9d9af03d480e5d0b9f2be3e.png" group-title="ⓣⓥ || LATINO",LA | Star Series FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145783
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Starz Cinema East FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f808866392d0740c5ad82276e96f4be4.png" group-title="ⓣⓥ || LATINO",LA | Starz Cinema East FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145782
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Starz Cinema FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0b55e6e7496a2c59547eff291e324778.png" group-title="ⓣⓥ || LATINO",LA | Starz Cinema FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145781
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Starz East FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fe9f5063534e2b6ba4c7f113d71ae2dc.png" group-title="ⓣⓥ || LATINO",LA | Starz East FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145780
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Starz Edge West FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4cba9cf95adce52bb2e654aaca7e5cfb.png" group-title="ⓣⓥ || LATINO",LA | Starz Edge West FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145779
-#EXTINF:-1 tvg-ID="" tvg-name="LA | Starz Encore FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f89eb81c622b3c67bb0a1d22ad57f9e.png" group-title="ⓣⓥ || LATINO",LA | Starz Encore FHD
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/145778
-#EXTINF:-1 tvg-ID="telemundo.us" tvg-name="US | TELEMUNDO" tvg-logo="https://logo-iptvpro.com/LOGO/USA/telemundo_m.png" group-title="ⓣⓥ || U.S.A",US | TELEMUNDO
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/122004
-#EXTINF:-1 tvg-ID="" tvg-name="US | UNIMAS" tvg-logo="https://logo-iptvpro.com/LOGO/USA/s29058_ll_h3_aa.png" group-title="ⓣⓥ || U.S.A",US | UNIMAS
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/122005
-#EXTINF:-1 tvg-ID="univision.us" tvg-name="US | UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/langfr-300px-Logo_Univision_2019.svg.png" group-title="ⓣⓥ || U.S.A",US | UNIVISION
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/122006
-#EXTINF:-1 tvg-ID="espndeportes.us" tvg-name="US | ESPN DEPORTES" tvg-logo="https://logo-iptvpro.com/LOGO/USA/espn_deportes_us.png" group-title="ⓣⓥ || U.S.A",US | ESPN DEPORTES
-http://pro2.premium-tv.org:8789/mdiouf257/diouf3446/122007
+#EXTINF:-1,24/7: The Simpsons HD
+http://104.245.96.214:8000/live/manolo/manolo1/836.ts
+#EXTINF:-1,24/7: The Simpsons 2
+http://104.245.96.214:8000/live/manolo/manolo1/869.ts
+#EXTINF:-1,24/7: Two and half men
+http://104.245.96.214:8000/live/manolo/manolo1/858.ts
+#EXTINF:-1,24/7: Cantinflas
+http://104.245.96.214:8000/live/manolo/manolo1/990.ts
+#EXTINF:-1,24/7: Peliculas 2
+http://104.245.96.214:8000/live/manolo/manolo1/854.ts
+#EXTINF:-1,24/7: Shin Chan
+http://104.245.96.214:8000/live/manolo/manolo1/879.ts
+#EXTINF:-1,24/7: Un hogar casi perfecto – 3X3 (2016)
+http://104.245.96.214:8000/live/manolo/manolo1/1000.ts
+#EXTINF:-1,24/7: Dragon Ball Super
+http://104.245.96.214:8000/live/manolo/manolo1/985.ts
+#EXTINF:-1,24/7: Bob Esponja SD
+http://104.245.96.214:8000/live/manolo/manolo1/853.ts
+#EXTINF:-1,24/7: Canal Disney  HD
+http://104.245.96.214:8000/live/manolo/manolo1/852.ts
+#EXTINF:-1,24/7: Dragon Ball HD
+http://104.245.96.214:8000/live/manolo/manolo1/851.ts
+#EXTINF:-1,24/7: Dragon Ball Z HD
+http://104.245.96.214:8000/live/manolo/manolo1/850.ts
+#EXTINF:-1,24/7: El Chapulín Colorado SD
+http://104.245.96.214:8000/live/manolo/manolo1/849.ts
+#EXTINF:-1,24/7: El Chavo del Ocho SD
+http://104.245.96.214:8000/live/manolo/manolo1/848.ts
+#EXTINF:-1,24/7: Family Guy HD
+http://104.245.96.214:8000/live/manolo/manolo1/847.ts
+#EXTINF:-1,24/7: Futurama HD
+http://104.245.96.214:8000/live/manolo/manolo1/846.ts
+#EXTINF:-1,24/7: Los caballeros del Zodiaco  HD
+http://104.245.96.214:8000/live/manolo/manolo1/845.ts
+#EXTINF:-1,24/7: MacGyver SD
+http://104.245.96.214:8000/live/manolo/manolo1/834.ts
+#EXTINF:-1,24/7: Malcolm  SD
+http://104.245.96.214:8000/live/manolo/manolo1/844.ts
+#EXTINF:-1,24/7: Mr. Bean SD
+http://104.245.96.214:8000/live/manolo/manolo1/843.ts
+#EXTINF:-1,24/7: Patoaventuras SD
+http://104.245.96.214:8000/live/manolo/manolo1/842.ts
+#EXTINF:-1,24/7: Pocoyó SD
+http://104.245.96.214:8000/live/manolo/manolo1/841.ts
+#EXTINF:-1,24/7: Ranma ½ HD
+http://104.245.96.214:8000/live/manolo/manolo1/840.ts
+#EXTINF:-1,24/7: Scooby-Doo HD
+http://104.245.96.214:8000/live/manolo/manolo1/839.ts
+#EXTINF:-1,24/7: South Park  HD
+http://104.245.96.214:8000/live/manolo/manolo1/838.ts
+#EXTINF:-1,24/7: Súper Campeones SD
+http://104.245.96.214:8000/live/manolo/manolo1/837.ts
+#EXTINF:-1,24/7: WWE 24/7 HD
+http://104.245.96.214:8000/live/manolo/manolo1/835.ts
+#EXTINF:-1,24/7: ALF SD
+http://104.245.96.214:8000/live/manolo/manolo1/3097.ts
+#EXTINF:-1,24/7: Cantinflas  (SD)
+http://104.245.96.214:8000/live/manolo/manolo1/3096.ts
+#EXTINF:-1,24/7: Chespirito SD
+http://104.245.96.214:8000/live/manolo/manolo1/3090.ts
+#EXTINF:-1,24/7: Coraje El Perro Cobarde SD
+http://104.245.96.214:8000/live/manolo/manolo1/3095.ts
+#EXTINF:-1,24/7: Dragon Ball Super HD
+http://104.245.96.214:8000/live/manolo/manolo1/3093.ts
+#EXTINF:-1,24/7: El Coyote y el Correcaminos SD
+http://104.245.96.214:8000/live/manolo/manolo1/3094.ts
+#EXTINF:-1,24/7: El Pajaro Loco SD
+http://104.245.96.214:8000/live/manolo/manolo1/3092.ts
+#EXTINF:-1,24/7: El príncipe de Bel-Air SD
+http://104.245.96.214:8000/live/manolo/manolo1/3091.ts
+#EXTINF:-1,24/7: He-Man y los Amos del Universo SD
+http://104.245.96.214:8000/live/manolo/manolo1/3088.ts
+#EXTINF:-1,24/7: Hey Arnold! SD
+http://104.245.96.214:8000/live/manolo/manolo1/3089.ts
+#EXTINF:-1,24/7: Inspector Gadget SD
+http://104.245.96.214:8000/live/manolo/manolo1/3087.ts
+#EXTINF:-1,24/7: La familia P. Luche SD
+http://104.245.96.214:8000/live/manolo/manolo1/3086.ts
+#EXTINF:-1,24/7: Looney Tunes HD
+http://104.245.96.214:8000/live/manolo/manolo1/3085.ts
+#EXTINF:-1,24/7: Los Tres Chiflados SD
+http://104.245.96.214:8000/live/manolo/manolo1/3084.ts
+#EXTINF:-1,24/7: Power Rangers Mighty Morphin SD
+http://104.245.96.214:8000/live/manolo/manolo1/3083.ts
+#EXTINF:-1,24/7: The A-Team SD
+http://104.245.96.214:8000/live/manolo/manolo1/3082.ts
+#EXTINF:-1,24/7: ThunderCats SD
+http://104.245.96.214:8000/live/manolo/manolo1/3081.ts
+#EXTINF:-1,24/7: Tom and Jerry HD
+http://104.245.96.214:8000/live/manolo/manolo1/3080.ts
+#EXTINF:-1,FOX HD
+http://104.245.96.214:8000/live/manolo/manolo1/2179.ts
+#EXTINF:-1,Fox HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3183.ts
+#EXTINF:-1,A&E HD
+http://104.245.96.214:8000/live/manolo/manolo1/2185.ts
+#EXTINF:-1,A&E HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3198.ts
+#EXTINF:-1,AMC HD
+http://104.245.96.214:8000/live/manolo/manolo1/2210.ts
+#EXTINF:-1,AMC HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3197.ts
+#EXTINF:-1,AXN HD
+http://104.245.96.214:8000/live/manolo/manolo1/2186.ts
+#EXTINF:-1,AXN HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3196.ts
+#EXTINF:-1,CANAL FORMULA1 HD
+http://104.245.96.214:8000/live/manolo/manolo1/2228.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://104.245.96.214:8000/live/manolo/manolo1/2196.ts
+#EXTINF:-1,Cartoon Network HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3195.ts
+#EXTINF:-1,CINECANAL HD
+http://104.245.96.214:8000/live/manolo/manolo1/2205.ts
+#EXTINF:-1,Cinecanal HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3194.ts
+#EXTINF:-1,Cinemax HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3193.ts
+#EXTINF:-1,CINEMAX HD
+http://104.245.96.214:8000/live/manolo/manolo1/2212.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://104.245.96.214:8000/live/manolo/manolo1/2188.ts
+#EXTINF:-1,DEPELICULA HD
+http://104.245.96.214:8000/live/manolo/manolo1/2209.ts
+#EXTINF:-1,De Pelicula HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3192.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://104.245.96.214:8000/live/manolo/manolo1/2244.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+http://104.245.96.214:8000/live/manolo/manolo1/2231.ts
+#EXTINF:-1,Discovery Kids HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3191.ts
+#EXTINF:-1,DISCOVERY THEATER HD
+http://104.245.96.214:8000/live/manolo/manolo1/2197.ts
+#EXTINF:-1,Discovery Teather HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3190.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://104.245.96.214:8000/live/manolo/manolo1/2232.ts
+#EXTINF:-1,Discovery Turbo HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3188.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://104.245.96.214:8000/live/manolo/manolo1/2200.ts
+#EXTINF:-1,DISNEY JUNIOR HD
+http://104.245.96.214:8000/live/manolo/manolo1/2233.ts
+#EXTINF:-1,Disney Channel HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3187.ts
+#EXTINF:-1,Disney XD HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3186.ts
+#EXTINF:-1,E! HD
+http://104.245.96.214:8000/live/manolo/manolo1/2190.ts
+#EXTINF:-1,ESPN 2 HD
+http://104.245.96.214:8000/live/manolo/manolo1/2216.ts
+#EXTINF:-1,ESPN 3 HD
+http://104.245.96.214:8000/live/manolo/manolo1/2214.ts
+#EXTINF:-1,ESPN HD
+http://104.245.96.214:8000/live/manolo/manolo1/2215.ts
+#EXTINF:-1,ESPN PLUS HD
+http://104.245.96.214:8000/live/manolo/manolo1/2213.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://104.245.96.214:8000/live/manolo/manolo1/2225.ts
+#EXTINF:-1,FOX ACTION HD
+http://104.245.96.214:8000/live/manolo/manolo1/2203.ts
+#EXTINF:-1,Fox Action HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3185.ts
+#EXTINF:-1,FOX COMEDY HD
+http://104.245.96.214:8000/live/manolo/manolo1/2234.ts
+#EXTINF:-1,Fox Cinema HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3184.ts
+#EXTINF:-1,FOX FAMILY HD
+http://104.245.96.214:8000/live/manolo/manolo1/2235.ts
+#EXTINF:-1,FOX LIFE HD
+http://104.245.96.214:8000/live/manolo/manolo1/2194.ts
+#EXTINF:-1,FOX MOVIES HD
+http://104.245.96.214:8000/live/manolo/manolo1/2204.ts
+#EXTINF:-1,Fox Movies HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3182.ts
+#EXTINF:-1,FOX SERIES HD
+http://104.245.96.214:8000/live/manolo/manolo1/2202.ts
+#EXTINF:-1,Fox Series HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3181.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://104.245.96.214:8000/live/manolo/manolo1/2218.ts
+#EXTINF:-1,FOX SPORTS 3 HD
+http://104.245.96.214:8000/live/manolo/manolo1/2219.ts
+#EXTINF:-1,FOX SPORTS HD
+http://104.245.96.214:8000/live/manolo/manolo1/2217.ts
+#EXTINF:-1,FX HD
+http://104.245.96.214:8000/live/manolo/manolo1/2184.ts
+#EXTINF:-1,FX HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3180.ts
+#EXTINF:-1,FX MOVIES HD
+http://104.245.96.214:8000/live/manolo/manolo1/2208.ts
+#EXTINF:-1,GOLDEN HD
+http://104.245.96.214:8000/live/manolo/manolo1/2207.ts
+#EXTINF:-1,Golden HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3179.ts
+#EXTINF:-1,GOLF CHANNEL HD
+http://104.245.96.214:8000/live/manolo/manolo1/2220.ts
+#EXTINF:-1,GOURMET HD
+http://104.245.96.214:8000/live/manolo/manolo1/2193.ts
+#EXTINF:-1,HISTORY HD
+http://104.245.96.214:8000/live/manolo/manolo1/2198.ts
+#EXTINF:-1,History HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3178.ts
+#EXTINF:-1,HOLA TV HD
+http://104.245.96.214:8000/live/manolo/manolo1/2189.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://104.245.96.214:8000/live/manolo/manolo1/2243.ts
+#EXTINF:-1,LIFE TIME HD
+http://104.245.96.214:8000/live/manolo/manolo1/2201.ts
+#EXTINF:-1,HBO 2 HD
+http://104.245.96.214:8000/live/manolo/manolo1/2236.ts
+#EXTINF:-1,HBO FAMILY HD
+http://104.245.96.214:8000/live/manolo/manolo1/2237.ts
+#EXTINF:-1,HBO HD
+http://104.245.96.214:8000/live/manolo/manolo1/2238.ts
+#EXTINF:-1,HBO PLUS HD
+http://104.245.96.214:8000/live/manolo/manolo1/2239.ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://104.245.96.214:8000/live/manolo/manolo1/2240.ts
+#EXTINF:-1,MAX UP HD
+http://104.245.96.214:8000/live/manolo/manolo1/2241.ts
+#EXTINF:-1,MTV  LIVE HD
+http://104.245.96.214:8000/live/manolo/manolo1/2221.ts
+#EXTINF:-1,MTV HD
+http://104.245.96.214:8000/live/manolo/manolo1/2224.ts
+#EXTINF:-1,MTV HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3177.ts
+#EXTINF:-1,NATGEO KIDS HD
+http://104.245.96.214:8000/live/manolo/manolo1/2227.ts
+#EXTINF:-1,NATGEO WILD HD
+http://104.245.96.214:8000/live/manolo/manolo1/2199.ts
+#EXTINF:-1,NatGeo Wild HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3176.ts
+#EXTINF:-1,NICK HD
+http://104.245.96.214:8000/live/manolo/manolo1/2195.ts
+#EXTINF:-1,NICK 2 HD
+http://104.245.96.214:8000/live/manolo/manolo1/2242.ts
+#EXTINF:-1,Nickelodeon HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3175.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://104.245.96.214:8000/live/manolo/manolo1/2226.ts
+#EXTINF:-1,SONY HD
+http://104.245.96.214:8000/live/manolo/manolo1/2181.ts
+#EXTINF:-1,Sony HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3174.ts
+#EXTINF:-1,SPACE HD
+http://104.245.96.214:8000/live/manolo/manolo1/2211.ts
+#EXTINF:-1,Space HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3173.ts
+#EXTINF:-1,SYFY HD
+http://104.245.96.214:8000/live/manolo/manolo1/2191.ts
+#EXTINF:-1,TELEHIT HD
+http://104.245.96.214:8000/live/manolo/manolo1/2222.ts
+#EXTINF:-1,TLC DISCOVERY HD
+http://104.245.96.214:8000/live/manolo/manolo1/2245.ts
+#EXTINF:-1,TLC HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3189.ts
+#EXTINF:-1,TNT HD
+http://104.245.96.214:8000/live/manolo/manolo1/2206.ts
+#EXTINF:-1,TNT HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3172.ts
+#EXTINF:-1,TNT SERIES HD
+http://104.245.96.214:8000/live/manolo/manolo1/2192.ts
+#EXTINF:-1,TNT Series HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3171.ts
+#EXTINF:-1,TRUTV HD
+http://104.245.96.214:8000/live/manolo/manolo1/2187.ts
+#EXTINF:-1,TruTv HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3170.ts
+#EXTINF:-1,TVC Deportes HD
+http://104.245.96.214:8000/live/manolo/manolo1/2180.ts
+#EXTINF:-1,UNIVERSAL HD
+http://104.245.96.214:8000/live/manolo/manolo1/2183.ts
+#EXTINF:-1,Universal HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3169.ts
+#EXTINF:-1,VH1 HD
+http://104.245.96.214:8000/live/manolo/manolo1/2223.ts
+#EXTINF:-1,WARNER HD
+http://104.245.96.214:8000/live/manolo/manolo1/2182.ts
+#EXTINF:-1,Warner HD 720p
+http://104.245.96.214:8000/live/manolo/manolo1/3168.ts
+#EXTINF:-1,A&E
+http://104.245.96.214:8000/live/manolo/manolo1/21.ts
+#EXTINF:-1,AMC
+http://104.245.96.214:8000/live/manolo/manolo1/75.ts
+#EXTINF:-1,AMC SD
+http://104.245.96.214:8000/live/manolo/manolo1/80.ts
+#EXTINF:-1,Animal Planet
+http://104.245.96.214:8000/live/manolo/manolo1/57.ts
+#EXTINF:-1,AR: America TV
+http://104.245.96.214:8000/live/manolo/manolo1/136.ts
+#EXTINF:-1,AR: C5N
+http://104.245.96.214:8000/live/manolo/manolo1/254.ts
+#EXTINF:-1,AR: Canal 26
+http://104.245.96.214:8000/live/manolo/manolo1/255.ts
+#EXTINF:-1,AR: Canal 9
+http://104.245.96.214:8000/live/manolo/manolo1/273.ts
+#EXTINF:-1,AR: El Trece
+http://104.245.96.214:8000/live/manolo/manolo1/252.ts
+#EXTINF:-1,AR: TELEFE
+http://104.245.96.214:8000/live/manolo/manolo1/117.ts
+#EXTINF:-1,AR: TN
+http://104.245.96.214:8000/live/manolo/manolo1/253.ts
+#EXTINF:-1,AR: TV Publica
+http://104.245.96.214:8000/live/manolo/manolo1/134.ts
+#EXTINF:-1,AR: TYC Sports
+http://104.245.96.214:8000/live/manolo/manolo1/232.ts
+#EXTINF:-1,AXN
+http://104.245.96.214:8000/live/manolo/manolo1/152.ts
+#EXTINF:-1,AYM Sports
+http://104.245.96.214:8000/live/manolo/manolo1/91.ts
+#EXTINF:-1,AZCinema
+http://104.245.96.214:8000/live/manolo/manolo1/192.ts
+#EXTINF:-1,AzCorazon
+http://104.245.96.214:8000/live/manolo/manolo1/7.ts
+#EXTINF:-1,Azteca Siete
+http://104.245.96.214:8000/live/manolo/manolo1/5.ts
+#EXTINF:-1,Azteca Trece
+http://104.245.96.214:8000/live/manolo/manolo1/6.ts
+#EXTINF:-1,Bandamax
+http://104.245.96.214:8000/live/manolo/manolo1/100.ts
+#EXTINF:-1,B31N Sp0rts Ñ
+http://104.245.96.214:8000/live/manolo/manolo1/144.ts
+#EXTINF:-1,B31N Sp0rts 1
+http://104.245.96.214:8000/live/manolo/manolo1/215.ts
+#EXTINF:-1,B31N Sp0rts 2
+http://104.245.96.214:8000/live/manolo/manolo1/216.ts
+#EXTINF:-1,B31N Sp0rts 3
+http://104.245.96.214:8000/live/manolo/manolo1/217.ts
+#EXTINF:-1,B31N Sp0rts 4
+http://104.245.96.214:8000/live/manolo/manolo1/218.ts
+#EXTINF:-1,B31N Sp0rts 5
+http://104.245.96.214:8000/live/manolo/manolo1/219.ts
+#EXTINF:-1,B31N Sp0rts 6
+http://104.245.96.214:8000/live/manolo/manolo1/220.ts
+#EXTINF:-1,B31N Sp0rts 7
+http://104.245.96.214:8000/live/manolo/manolo1/221.ts
+#EXTINF:-1,B31N Sp0rts 8
+http://104.245.96.214:8000/live/manolo/manolo1/222.ts
+#EXTINF:-1,B31N Sp0rts 9
+http://104.245.96.214:8000/live/manolo/manolo1/223.ts
+#EXTINF:-1,B31N Sp0rts 10
+http://104.245.96.214:8000/live/manolo/manolo1/224.ts
+#EXTINF:-1,B31N Sp0rts 11
+http://104.245.96.214:8000/live/manolo/manolo1/225.ts
+#EXTINF:-1,B31N Sp0rts 12
+http://104.245.96.214:8000/live/manolo/manolo1/226.ts
+#EXTINF:-1,Boomerang
+http://104.245.96.214:8000/live/manolo/manolo1/49.ts
+#EXTINF:-1,BR || A&E
+http://104.245.96.214:8000/live/manolo/manolo1/2399.ts
+#EXTINF:-1,BR || Arte
+http://104.245.96.214:8000/live/manolo/manolo1/2398.ts
+#EXTINF:-1,BR || Band
+http://104.245.96.214:8000/live/manolo/manolo1/2396.ts
+#EXTINF:-1,BR || Band News
+http://104.245.96.214:8000/live/manolo/manolo1/2395.ts
+#EXTINF:-1,BR || Band Sports
+http://104.245.96.214:8000/live/manolo/manolo1/2394.ts
+#EXTINF:-1,BR || Bis
+http://104.245.96.214:8000/live/manolo/manolo1/2393.ts
+#EXTINF:-1,BR || Brazil 2
+http://104.245.96.214:8000/live/manolo/manolo1/2392.ts
+#EXTINF:-1,BR || Canacao Nova
+http://104.245.96.214:8000/live/manolo/manolo1/2391.ts
+#EXTINF:-1,BR || Canal Do Boi
+http://104.245.96.214:8000/live/manolo/manolo1/2390.ts
+#EXTINF:-1,BR || Canal Escola
+http://104.245.96.214:8000/live/manolo/manolo1/2389.ts
+#EXTINF:-1,BR || Conexao
+http://104.245.96.214:8000/live/manolo/manolo1/2388.ts
+#EXTINF:-1,BR || Discovery
+http://104.245.96.214:8000/live/manolo/manolo1/2387.ts
+#EXTINF:-1,BR || DW Latin
+http://104.245.96.214:8000/live/manolo/manolo1/2386.ts
+#EXTINF:-1,BR || ESPN Brazil
+http://104.245.96.214:8000/live/manolo/manolo1/2385.ts
+#EXTINF:-1,BR || Fish tv
+http://104.245.96.214:8000/live/manolo/manolo1/2384.ts
+#EXTINF:-1,BR || Fox
+http://104.245.96.214:8000/live/manolo/manolo1/2383.ts
+#EXTINF:-1,BR || FOX Sports
+http://104.245.96.214:8000/live/manolo/manolo1/2382.ts
+#EXTINF:-1,BR || FOX Sports 2
+http://104.245.96.214:8000/live/manolo/manolo1/2366.ts
+#EXTINF:-1,BR || Globo News
+http://104.245.96.214:8000/live/manolo/manolo1/2380.ts
+#EXTINF:-1,BR || Globo TV
+http://104.245.96.214:8000/live/manolo/manolo1/2381.ts
+#EXTINF:-1,BR || HBO
+http://104.245.96.214:8000/live/manolo/manolo1/2379.ts
+#EXTINF:-1,BR || HBO 2
+http://104.245.96.214:8000/live/manolo/manolo1/2378.ts
+#EXTINF:-1,BR || HBO Family
+http://104.245.96.214:8000/live/manolo/manolo1/2377.ts
+#EXTINF:-1,BR || History
+http://104.245.96.214:8000/live/manolo/manolo1/2376.ts
+#EXTINF:-1,BR || Multi TV
+http://104.245.96.214:8000/live/manolo/manolo1/2375.ts
+#EXTINF:-1,BR || Rede TV
+http://104.245.96.214:8000/live/manolo/manolo1/2374.ts
+#EXTINF:-1,BR || SporTV2
+http://104.245.96.214:8000/live/manolo/manolo1/2373.ts
+#EXTINF:-1,BR || SporTV3
+http://104.245.96.214:8000/live/manolo/manolo1/2372.ts
+#EXTINF:-1,BR || TBS
+http://104.245.96.214:8000/live/manolo/manolo1/2371.ts
+#EXTINF:-1,BR || TV Brazil
+http://104.245.96.214:8000/live/manolo/manolo1/2370.ts
+#EXTINF:-1,BR || TV Diario
+http://104.245.96.214:8000/live/manolo/manolo1/2368.ts
+#EXTINF:-1,BR || TV Geral
+http://104.245.96.214:8000/live/manolo/manolo1/2369.ts
+#EXTINF:-1,BR || TVE
+http://104.245.96.214:8000/live/manolo/manolo1/2367.ts
+#EXTINF:-1,Canal 5
+http://104.245.96.214:8000/live/manolo/manolo1/8.ts
+#EXTINF:-1,Canal Formula 1
+http://104.245.96.214:8000/live/manolo/manolo1/209.ts
+#EXTINF:-1,Canal El Gourmet
+http://104.245.96.214:8000/live/manolo/manolo1/33.ts
+#EXTINF:-1,Canal Once
+http://104.245.96.214:8000/live/manolo/manolo1/12.ts
+#EXTINF:-1,Cartoon Network
+http://104.245.96.214:8000/live/manolo/manolo1/47.ts
+#EXTINF:-1,Baby TV
+http://104.245.96.214:8000/live/manolo/manolo1/40.ts
+#EXTINF:-1,Cinecanal
+http://104.245.96.214:8000/live/manolo/manolo1/77.ts
+#EXTINF:-1,Cinecanal 2
+http://104.245.96.214:8000/live/manolo/manolo1/70.ts
+#EXTINF:-1,Cinemax
+http://104.245.96.214:8000/live/manolo/manolo1/78.ts
+#EXTINF:-1,CL: 13 CABLE
+http://104.245.96.214:8000/live/manolo/manolo1/107.ts
+#EXTINF:-1,CL: CANAL13
+http://104.245.96.214:8000/live/manolo/manolo1/103.ts
+#EXTINF:-1,CL: CANAL13 HD
+http://104.245.96.214:8000/live/manolo/manolo1/110.ts
+#EXTINF:-1,CL: CHV HD
+http://104.245.96.214:8000/live/manolo/manolo1/106.ts
+#EXTINF:-1,CL: CDO
+http://104.245.96.214:8000/live/manolo/manolo1/2133.ts
+#EXTINF:-1,CL: CDF Basico
+http://104.245.96.214:8000/live/manolo/manolo1/505.ts
+#EXTINF:-1,CL: CDF Premium op1
+http://104.245.96.214:8000/live/manolo/manolo1/988.ts
+#EXTINF:-1,CL: CDF PREMIUN
+http://104.245.96.214:8000/live/manolo/manolo1/109.ts
+#EXTINF:-1,CL: CDF HD
+http://104.245.96.214:8000/live/manolo/manolo1/2087.ts
+#EXTINF:-1,CL: CDF FULL HD
+http://104.245.96.214:8000/live/manolo/manolo1/490.ts
+#EXTINF:-1,CL: Estadio CDF HD (solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/261.ts
+#EXTINF:-1,CL: ETC TV
+http://104.245.96.214:8000/live/manolo/manolo1/971.ts
+#EXTINF:-1,CL: FOX Sports Chile HD
+http://104.245.96.214:8000/live/manolo/manolo1/881.ts
+#EXTINF:-1,CL: LA RED
+http://104.245.96.214:8000/live/manolo/manolo1/108.ts
+#EXTINF:-1,CL: MEGA
+http://104.245.96.214:8000/live/manolo/manolo1/102.ts
+#EXTINF:-1,CL: MEGA HD
+http://104.245.96.214:8000/live/manolo/manolo1/105.ts
+#EXTINF:-1,CL: Teletrak
+http://104.245.96.214:8000/live/manolo/manolo1/279.ts
+#EXTINF:-1,CL: TVN HD
+http://104.245.96.214:8000/live/manolo/manolo1/104.ts
+#EXTINF:-1,CL: TVN
+http://104.245.96.214:8000/live/manolo/manolo1/2770.ts
+#EXTINF:-1,CL: TV Chile
+http://104.245.96.214:8000/live/manolo/manolo1/2760.ts
+#EXTINF:-1,CL: TVN 24 Horas
+http://104.245.96.214:8000/live/manolo/manolo1/970.ts
+#EXTINF:-1,CL: UCV
+http://104.245.96.214:8000/live/manolo/manolo1/241.ts
+#EXTINF:-1,Claro Sports
+http://104.245.96.214:8000/live/manolo/manolo1/258.ts
+#EXTINF:-1,CNN CHILE
+http://104.245.96.214:8000/live/manolo/manolo1/118.ts
+#EXTINF:-1,CO: Caracol
+http://104.245.96.214:8000/live/manolo/manolo1/236.ts
+#EXTINF:-1,CO: Caracol HD
+http://104.245.96.214:8000/live/manolo/manolo1/257.ts
+#EXTINF:-1,CO: Caracol Internacional
+http://104.245.96.214:8000/live/manolo/manolo1/119.ts
+#EXTINF:-1,CO: Telemedellin
+http://104.245.96.214:8000/live/manolo/manolo1/262.ts
+#EXTINF:-1,CO: RCN
+http://104.245.96.214:8000/live/manolo/manolo1/141.ts
+#EXTINF:-1,CO: RCN Novelas
+http://104.245.96.214:8000/live/manolo/manolo1/256.ts
+#EXTINF:-1,CO: TRECE COLOMBIA
+http://104.245.96.214:8000/live/manolo/manolo1/142.ts
+#EXTINF:-1,CO: WINSPORT
+http://104.245.96.214:8000/live/manolo/manolo1/120.ts
+#EXTINF:-1,CO: Cable Noticias
+http://104.245.96.214:8000/live/manolo/manolo1/3160.ts
+#EXTINF:-1,CO: CANAL ANTIESTRES
+http://104.245.96.214:8000/live/manolo/manolo1/3157.ts
+#EXTINF:-1,CO: CANAL U
+http://104.245.96.214:8000/live/manolo/manolo1/3162.ts
+#EXTINF:-1,CO: CANTINAZO
+http://104.245.96.214:8000/live/manolo/manolo1/3156.ts
+#EXTINF:-1,CO: CosmoVision
+http://104.245.96.214:8000/live/manolo/manolo1/3163.ts
+#EXTINF:-1,CO: El Tiempo
+http://104.245.96.214:8000/live/manolo/manolo1/3159.ts
+#EXTINF:-1,CO: LIFEDESING
+http://104.245.96.214:8000/live/manolo/manolo1/3155.ts
+#EXTINF:-1,CO: MIMUSICA HD
+http://104.245.96.214:8000/live/manolo/manolo1/3154.ts
+#EXTINF:-1,CO: TELE VIDA
+http://104.245.96.214:8000/live/manolo/manolo1/3158.ts
+#EXTINF:-1,CO: TELEANTIOQUIA HD
+http://104.245.96.214:8000/live/manolo/manolo1/3164.ts
+#EXTINF:-1,CO: Telecafe
+http://104.245.96.214:8000/live/manolo/manolo1/3165.ts
+#EXTINF:-1,CO: TIGO MUSIC
+http://104.245.96.214:8000/live/manolo/manolo1/3153.ts
+#EXTINF:-1,CO: TV AGRO
+http://104.245.96.214:8000/live/manolo/manolo1/3161.ts
+#EXTINF:-1,Comedy Central
+http://104.245.96.214:8000/live/manolo/manolo1/23.ts
+#EXTINF:-1,CR: Repretel11
+http://104.245.96.214:8000/live/manolo/manolo1/288.ts
+#EXTINF:-1,CR: Repretel4
+http://104.245.96.214:8000/live/manolo/manolo1/289.ts
+#EXTINF:-1,CR: Repretel6
+http://104.245.96.214:8000/live/manolo/manolo1/290.ts
+#EXTINF:-1,De Pelicula
+http://104.245.96.214:8000/live/manolo/manolo1/74.ts
+#EXTINF:-1,Directv Sports
+http://104.245.96.214:8000/live/manolo/manolo1/135.ts
+#EXTINF:-1,Campeonato EC (solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/874.ts
+#EXTINF:-1,Campeonato EC 2 (solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/962.ts
+#EXTINF:-1,Discovery Channel
+http://104.245.96.214:8000/live/manolo/manolo1/56.ts
+#EXTINF:-1,Discovery Civilization
+http://104.245.96.214:8000/live/manolo/manolo1/62.ts
+#EXTINF:-1,Discovery Home & Health
+http://104.245.96.214:8000/live/manolo/manolo1/58.ts
+#EXTINF:-1,Discovery Kids
+http://104.245.96.214:8000/live/manolo/manolo1/39.ts
+#EXTINF:-1,Discovery Science
+http://104.245.96.214:8000/live/manolo/manolo1/61.ts
+#EXTINF:-1,Discovery Theater
+http://104.245.96.214:8000/live/manolo/manolo1/52.ts
+#EXTINF:-1,Discovery Turbo
+http://104.245.96.214:8000/live/manolo/manolo1/63.ts
+#EXTINF:-1,Discovery World
+http://104.245.96.214:8000/live/manolo/manolo1/55.ts
+#EXTINF:-1,Disney Channel
+http://104.245.96.214:8000/live/manolo/manolo1/43.ts
+#EXTINF:-1,Disney Junior
+http://104.245.96.214:8000/live/manolo/manolo1/41.ts
+#EXTINF:-1,Disney XD
+http://104.245.96.214:8000/live/manolo/manolo1/48.ts
+#EXTINF:-1,Distrito Comedia
+http://104.245.96.214:8000/live/manolo/manolo1/36.ts
+#EXTINF:-1,DW Latinoamerica
+http://104.245.96.214:8000/live/manolo/manolo1/251.ts
+#EXTINF:-1,E!
+http://104.245.96.214:8000/live/manolo/manolo1/27.ts
+#EXTINF:-1,EC: CNT Sports HD
+http://104.245.96.214:8000/live/manolo/manolo1/3113.ts
+#EXTINF:-1,EC: CNT Sports op2
+http://104.245.96.214:8000/live/manolo/manolo1/350.ts
+#EXTINF:-1,EC: Planeta Once (solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/3152.ts
+#EXTINF:-1,EC: Ecuavisa HD
+http://104.245.96.214:8000/live/manolo/manolo1/3148.ts
+#EXTINF:-1,EC: Ecuavisa op2
+http://104.245.96.214:8000/live/manolo/manolo1/128.ts
+#EXTINF:-1,EC: RTS Ecuador
+http://104.245.96.214:8000/live/manolo/manolo1/138.ts
+#EXTINF:-1,EC: TELEAMAZONAS
+http://104.245.96.214:8000/live/manolo/manolo1/3150.ts
+#EXTINF:-1,EC: Teleamazonas op2
+http://104.245.96.214:8000/live/manolo/manolo1/129.ts
+#EXTINF:-1,EC: Ecuador TV
+http://104.245.96.214:8000/live/manolo/manolo1/131.ts
+#EXTINF:-1,EC: GAMA
+http://104.245.96.214:8000/live/manolo/manolo1/3149.ts
+#EXTINF:-1,EC: GamaTV op2
+http://104.245.96.214:8000/live/manolo/manolo1/132.ts
+#EXTINF:-1,EC: TC Television HD
+http://104.245.96.214:8000/live/manolo/manolo1/976.ts
+#EXTINF:-1,EC: TC Television op2
+http://104.245.96.214:8000/live/manolo/manolo1/130.ts
+#EXTINF:-1,EC: Canal UNO
+http://104.245.96.214:8000/live/manolo/manolo1/133.ts
+#EXTINF:-1,EC: OromarTV
+http://104.245.96.214:8000/live/manolo/manolo1/137.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+http://104.245.96.214:8000/live/manolo/manolo1/315.ts
+#EXTINF:-1,ES: LA 1
+http://104.245.96.214:8000/live/manolo/manolo1/337.ts
+#EXTINF:-1,ES: LA 2
+http://104.245.96.214:8000/live/manolo/manolo1/336.ts
+#EXTINF:-1,ES: #O
+http://104.245.96.214:8000/live/manolo/manolo1/349.ts
+#EXTINF:-1,ES: 40 TV
+http://104.245.96.214:8000/live/manolo/manolo1/317.ts
+#EXTINF:-1,ES: A&E
+http://104.245.96.214:8000/live/manolo/manolo1/316.ts
+#EXTINF:-1,ES: AMC
+http://104.245.96.214:8000/live/manolo/manolo1/348.ts
+#EXTINF:-1,ES: Antena 3
+http://104.245.96.214:8000/live/manolo/manolo1/187.ts
+#EXTINF:-1,ES: AXN
+http://104.245.96.214:8000/live/manolo/manolo1/347.ts
+#EXTINF:-1,ES: AXN WHITE
+http://104.245.96.214:8000/live/manolo/manolo1/346.ts
+#EXTINF:-1,ES: BARCA TV
+http://104.245.96.214:8000/live/manolo/manolo1/882.ts
+#EXTINF:-1,ES: B31N La Liga HD
+http://104.245.96.214:8000/live/manolo/manolo1/264.ts
+#EXTINF:-1,ES: B31N Sp0rts SPAIN HD
+http://104.245.96.214:8000/live/manolo/manolo1/160.ts
+#EXTINF:-1,ES: BOING
+http://104.245.96.214:8000/live/manolo/manolo1/345.ts
+#EXTINF:-1,ES: CALLE 13
+http://104.245.96.214:8000/live/manolo/manolo1/344.ts
+#EXTINF:-1,ES: COCINA
+http://104.245.96.214:8000/live/manolo/manolo1/343.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://104.245.96.214:8000/live/manolo/manolo1/342.ts
+#EXTINF:-1,ES: COSMO
+http://104.245.96.214:8000/live/manolo/manolo1/341.ts
+#EXTINF:-1,ES: CRIMEN INVESTIGACION
+http://104.245.96.214:8000/live/manolo/manolo1/313.ts
+#EXTINF:-1,ES: CUATRO
+http://104.245.96.214:8000/live/manolo/manolo1/340.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+http://104.245.96.214:8000/live/manolo/manolo1/314.ts
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://104.245.96.214:8000/live/manolo/manolo1/312.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://104.245.96.214:8000/live/manolo/manolo1/311.ts
+#EXTINF:-1,ES: DISNEY XD
+http://104.245.96.214:8000/live/manolo/manolo1/310.ts
+#EXTINF:-1,ES: DIVINITY
+http://104.245.96.214:8000/live/manolo/manolo1/309.ts
+#EXTINF:-1,ES: ENERGY
+http://104.245.96.214:8000/live/manolo/manolo1/308.ts
+#EXTINF:-1,ES: FDF
+http://104.245.96.214:8000/live/manolo/manolo1/307.ts
+#EXTINF:-1,ES: FOX
+http://104.245.96.214:8000/live/manolo/manolo1/306.ts
+#EXTINF:-1,ES: FOX LIFE
+http://104.245.96.214:8000/live/manolo/manolo1/339.ts
+#EXTINF:-1,ES: GOL
+http://104.245.96.214:8000/live/manolo/manolo1/265.ts
+#EXTINF:-1,ES: HISTORIA
+http://104.245.96.214:8000/live/manolo/manolo1/305.ts
+#EXTINF:-1,ES: HOLLYWOOD
+http://104.245.96.214:8000/live/manolo/manolo1/338.ts
+#EXTINF:-1,ES: La Sexta
+http://104.245.96.214:8000/live/manolo/manolo1/188.ts
+#EXTINF:-1,ES: LaLigaTV BAR
+http://104.245.96.214:8000/live/manolo/manolo1/161.ts
+#EXTINF:-1,ES: M20
+http://104.245.96.214:8000/live/manolo/manolo1/304.ts
+#EXTINF:-1,ES: M6 MUSIC
+http://104.245.96.214:8000/live/manolo/manolo1/303.ts
+#EXTINF:-1,ES: Mega
+http://104.245.96.214:8000/live/manolo/manolo1/263.ts
+#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
+http://104.245.96.214:8000/live/manolo/manolo1/159.ts
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+http://104.245.96.214:8000/live/manolo/manolo1/156.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+http://104.245.96.214:8000/live/manolo/manolo1/335.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://104.245.96.214:8000/live/manolo/manolo1/334.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+http://104.245.96.214:8000/live/manolo/manolo1/333.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://104.245.96.214:8000/live/manolo/manolo1/332.ts
+#EXTINF:-1,ES: Movistar F1
+http://104.245.96.214:8000/live/manolo/manolo1/189.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+http://104.245.96.214:8000/live/manolo/manolo1/158.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://104.245.96.214:8000/live/manolo/manolo1/157.ts
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+http://104.245.96.214:8000/live/manolo/manolo1/331.ts
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/302.ts
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO OP2  (Solo Eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/301.ts
+#EXTINF:-1,ES: MOVISTAR SERIES
+http://104.245.96.214:8000/live/manolo/manolo1/330.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://104.245.96.214:8000/live/manolo/manolo1/329.ts
+#EXTINF:-1,ES: MOVISTAR XTRA
+http://104.245.96.214:8000/live/manolo/manolo1/328.ts
+#EXTINF:-1,ES: NAT GEO
+http://104.245.96.214:8000/live/manolo/manolo1/327.ts
+#EXTINF:-1,ES: NAT GEO WILD
+http://104.245.96.214:8000/live/manolo/manolo1/326.ts
+#EXTINF:-1,ES: NEOX
+http://104.245.96.214:8000/live/manolo/manolo1/300.ts
+#EXTINF:-1,ES: NICKELODEON
+http://104.245.96.214:8000/live/manolo/manolo1/325.ts
+#EXTINF:-1,ES: NON STOP PEOPLE
+http://104.245.96.214:8000/live/manolo/manolo1/299.ts
+#EXTINF:-1,ES: NOVA
+http://104.245.96.214:8000/live/manolo/manolo1/324.ts
+#EXTINF:-1,ES: ODISEA HD
+http://104.245.96.214:8000/live/manolo/manolo1/298.ts
+#EXTINF:-1,ES: PANDA
+http://104.245.96.214:8000/live/manolo/manolo1/297.ts
+#EXTINF:-1,ES: PARAMOUNT
+http://104.245.96.214:8000/live/manolo/manolo1/296.ts
+#EXTINF:-1,ES: Real Madrid TV
+http://104.245.96.214:8000/live/manolo/manolo1/183.ts
+#EXTINF:-1,ES: SYFY
+http://104.245.96.214:8000/live/manolo/manolo1/323.ts
+#EXTINF:-1,ES: TCM
+http://104.245.96.214:8000/live/manolo/manolo1/322.ts
+#EXTINF:-1,ES: TELECINCO
+http://104.245.96.214:8000/live/manolo/manolo1/321.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://104.245.96.214:8000/live/manolo/manolo1/320.ts
+#EXTINF:-1,ES: TNT
+http://104.245.96.214:8000/live/manolo/manolo1/319.ts
+#EXTINF:-1,ES: TOROSTV HD
+http://104.245.96.214:8000/live/manolo/manolo1/155.ts
+#EXTINF:-1,ES: VH1
+http://104.245.96.214:8000/live/manolo/manolo1/295.ts
+#EXTINF:-1,ES: VIAJAR
+http://104.245.96.214:8000/live/manolo/manolo1/318.ts
+#EXTINF:-1,ES: VIRGIN TV
+http://104.245.96.214:8000/live/manolo/manolo1/294.ts
+#EXTINF:-1,ESPN
+http://104.245.96.214:8000/live/manolo/manolo1/89.ts
+#EXTINF:-1,ESPN 2
+http://104.245.96.214:8000/live/manolo/manolo1/90.ts
+#EXTINF:-1,ESPN 3
+http://104.245.96.214:8000/live/manolo/manolo1/86.ts
+#EXTINF:-1,ESPN ARGENTINA HD
+http://104.245.96.214:8000/live/manolo/manolo1/494.ts
+#EXTINF:-1,ESPN 2 ARGENTINA HD
+http://104.245.96.214:8000/live/manolo/manolo1/495.ts
+#EXTINF:-1,ESPN 3 ARGENTINA HD
+http://104.245.96.214:8000/live/manolo/manolo1/496.ts
+#EXTINF:-1,ESPN Deportes
+http://104.245.96.214:8000/live/manolo/manolo1/239.ts
+#EXTINF:-1,ESPN Plus
+http://104.245.96.214:8000/live/manolo/manolo1/85.ts
+#EXTINF:-1,Estrellas
+http://104.245.96.214:8000/live/manolo/manolo1/9.ts
+#EXTINF:-1,FX Movies
+http://104.245.96.214:8000/live/manolo/manolo1/73.ts
+#EXTINF:-1,Foro TV
+http://104.245.96.214:8000/live/manolo/manolo1/10.ts
+#EXTINF:-1,Fox
+http://104.245.96.214:8000/live/manolo/manolo1/16.ts
+#EXTINF:-1,Fox Action
+http://104.245.96.214:8000/live/manolo/manolo1/66.ts
+#EXTINF:-1,Fox Action op2
+http://104.245.96.214:8000/live/manolo/manolo1/991.ts
+#EXTINF:-1,Fox Cinema
+http://104.245.96.214:8000/live/manolo/manolo1/68.ts
+#EXTINF:-1,Fox Classics
+http://104.245.96.214:8000/live/manolo/manolo1/69.ts
+#EXTINF:-1,FOX Comedy
+http://104.245.96.214:8000/live/manolo/manolo1/150.ts
+#EXTINF:-1,FOX Deportes
+http://104.245.96.214:8000/live/manolo/manolo1/240.ts
+#EXTINF:-1,FOX Family
+http://104.245.96.214:8000/live/manolo/manolo1/210.ts
+#EXTINF:-1,Fox Life
+http://104.245.96.214:8000/live/manolo/manolo1/35.ts
+#EXTINF:-1,Fox Movies
+http://104.245.96.214:8000/live/manolo/manolo1/67.ts
+#EXTINF:-1,Fox SD
+http://104.245.96.214:8000/live/manolo/manolo1/25.ts
+#EXTINF:-1,Fox Series
+http://104.245.96.214:8000/live/manolo/manolo1/65.ts
+#EXTINF:-1,Fox Sports Argentina HD
+http://104.245.96.214:8000/live/manolo/manolo1/292.ts
+#EXTINF:-1,Fox Sports 2 Argentina HD
+http://104.245.96.214:8000/live/manolo/manolo1/493.ts
+#EXTINF:-1,Fox Sports 3 Argentina
+http://104.245.96.214:8000/live/manolo/manolo1/960.ts
+#EXTINF:-1,Fox Sports Uruguay HD
+http://104.245.96.214:8000/live/manolo/manolo1/958.ts
+#EXTINF:-1,Fox Sports
+http://104.245.96.214:8000/live/manolo/manolo1/87.ts
+#EXTINF:-1,Fox Sports 2
+http://104.245.96.214:8000/live/manolo/manolo1/88.ts
+#EXTINF:-1,Fox Sports 3
+http://104.245.96.214:8000/live/manolo/manolo1/278.ts
+#EXTINF:-1,FOX SPORTS SUR (CHILE)
+http://104.245.96.214:8000/live/manolo/manolo1/121.ts
+#EXTINF:-1,FOX SPORTS 2 SUR
+http://104.245.96.214:8000/live/manolo/manolo1/127.ts
+#EXTINF:-1,FX
+http://104.245.96.214:8000/live/manolo/manolo1/20.ts
+#EXTINF:-1,FX SD
+http://104.245.96.214:8000/live/manolo/manolo1/30.ts
+#EXTINF:-1,Gala TV
+http://104.245.96.214:8000/live/manolo/manolo1/11.ts
+#EXTINF:-1,Glitz
+http://104.245.96.214:8000/live/manolo/manolo1/34.ts
+#EXTINF:-1,Golden
+http://104.245.96.214:8000/live/manolo/manolo1/72.ts
+#EXTINF:-1,Golden Edge
+http://104.245.96.214:8000/live/manolo/manolo1/79.ts
+#EXTINF:-1,GolTV
+http://104.245.96.214:8000/live/manolo/manolo1/260.ts
+#EXTINF:-1,H2
+http://104.245.96.214:8000/live/manolo/manolo1/140.ts
+#EXTINF:-1,HBO 2
+http://104.245.96.214:8000/live/manolo/manolo1/125.ts
+#EXTINF:-1,HBO FAMILY
+http://104.245.96.214:8000/live/manolo/manolo1/124.ts
+#EXTINF:-1,HBO
+http://104.245.96.214:8000/live/manolo/manolo1/123.ts
+#EXTINF:-1,HBO PLUS
+http://104.245.96.214:8000/live/manolo/manolo1/126.ts
+#EXTINF:-1,HBO PLUS OESTE
+http://104.245.96.214:8000/live/manolo/manolo1/122.ts
+#EXTINF:-1,HBO Signature
+http://104.245.96.214:8000/live/manolo/manolo1/112.ts
+#EXTINF:-1,History
+http://104.245.96.214:8000/live/manolo/manolo1/53.ts
+#EXTINF:-1,Investigation Discovery
+http://104.245.96.214:8000/live/manolo/manolo1/31.ts
+#EXTINF:-1,iSat
+http://104.245.96.214:8000/live/manolo/manolo1/83.ts
+#EXTINF:-1,Lifetime
+http://104.245.96.214:8000/live/manolo/manolo1/60.ts
+#EXTINF:-1,MAX UP
+http://104.245.96.214:8000/live/manolo/manolo1/151.ts
+#EXTINF:-1,MAX Prime
+http://104.245.96.214:8000/live/manolo/manolo1/498.ts
+#EXTINF:-1,MTV
+http://104.245.96.214:8000/live/manolo/manolo1/96.ts
+#EXTINF:-1,MTV hits
+http://104.245.96.214:8000/live/manolo/manolo1/97.ts
+#EXTINF:-1,MTV Live HD
+http://104.245.96.214:8000/live/manolo/manolo1/93.ts
+#EXTINF:-1,Multimedios
+http://104.245.96.214:8000/live/manolo/manolo1/15.ts
+#EXTINF:-1,MundoFOX
+http://104.245.96.214:8000/live/manolo/manolo1/212.ts
+#EXTINF:-1,NatGeo Wild
+http://104.245.96.214:8000/live/manolo/manolo1/54.ts
+#EXTINF:-1,National Geographic Channel
+http://104.245.96.214:8000/live/manolo/manolo1/59.ts
+#EXTINF:-1,Nick Jr
+http://104.245.96.214:8000/live/manolo/manolo1/42.ts
+#EXTINF:-1,Nick2
+http://104.245.96.214:8000/live/manolo/manolo1/45.ts
+#EXTINF:-1,Nickelodeon
+http://104.245.96.214:8000/live/manolo/manolo1/46.ts
+#EXTINF:-1,NickToons
+http://104.245.96.214:8000/live/manolo/manolo1/44.ts
+#EXTINF:-1,Paramount
+http://104.245.96.214:8000/live/manolo/manolo1/213.ts
+#EXTINF:-1,PE: AMERICA TELEVISION
+http://104.245.96.214:8000/live/manolo/manolo1/101.ts
+#EXTINF:-1,PE: ATV
+http://104.245.96.214:8000/live/manolo/manolo1/139.ts
+#EXTINF:-1,PE: Movistar Deportes || CMD
+http://104.245.96.214:8000/live/manolo/manolo1/235.ts
+#EXTINF:-1,PE: Frecuencia Latina
+http://104.245.96.214:8000/live/manolo/manolo1/1045.ts
+#EXTINF:-1,PE: GolPeru
+http://104.245.96.214:8000/live/manolo/manolo1/234.ts
+#EXTINF:-1,PE: Panamericana
+http://104.245.96.214:8000/live/manolo/manolo1/238.ts
+#EXTINF:-1,PE: Peru Magico
+http://104.245.96.214:8000/live/manolo/manolo1/233.ts
+#EXTINF:-1,PE: TV Peru
+http://104.245.96.214:8000/live/manolo/manolo1/237.ts
+#EXTINF:-1,PR: ABC
+http://104.245.96.214:8000/live/manolo/manolo1/867.ts
+#EXTINF:-1,PR: MegaTV
+http://104.245.96.214:8000/live/manolo/manolo1/865.ts
+#EXTINF:-1,PR: NBC
+http://104.245.96.214:8000/live/manolo/manolo1/866.ts
+#EXTINF:-1,PR: Telemundo
+http://104.245.96.214:8000/live/manolo/manolo1/504.ts
+#EXTINF:-1,PR: Univision
+http://104.245.96.214:8000/live/manolo/manolo1/864.ts
+#EXTINF:-1,PR: Wapa 2
+http://104.245.96.214:8000/live/manolo/manolo1/863.ts
+#EXTINF:-1,PR: Wapa
+http://104.245.96.214:8000/live/manolo/manolo1/503.ts
+#EXTINF:-1,RD: Digital 15
+http://104.245.96.214:8000/live/manolo/manolo1/250.ts
+#EXTINF:-1,RD: Teleantillas
+http://104.245.96.214:8000/live/manolo/manolo1/249.ts
+#EXTINF:-1,RD: Telecentro
+http://104.245.96.214:8000/live/manolo/manolo1/248.ts
+#EXTINF:-1,RD: Telenord 10
+http://104.245.96.214:8000/live/manolo/manolo1/247.ts
+#EXTINF:-1,RD: Telenord 12
+http://104.245.96.214:8000/live/manolo/manolo1/246.ts
+#EXTINF:-1,RD: Telesistema
+http://104.245.96.214:8000/live/manolo/manolo1/245.ts
+#EXTINF:-1,RD: Teletica
+http://104.245.96.214:8000/live/manolo/manolo1/242.ts
+#EXTINF:-1,RD: Teleunion
+http://104.245.96.214:8000/live/manolo/manolo1/244.ts
+#EXTINF:-1,RD: Teleuniverso
+http://104.245.96.214:8000/live/manolo/manolo1/243.ts
+#EXTINF:-1,Ritmoson
+http://104.245.96.214:8000/live/manolo/manolo1/99.ts
+#EXTINF:-1,SKYSports 16 (solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/267.ts
+#EXTINF:-1,SKYSports 17 (solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/266.ts
+#EXTINF:-1,SKYSports 24
+http://104.245.96.214:8000/live/manolo/manolo1/268.ts
+#EXTINF:-1,Sony
+http://104.245.96.214:8000/live/manolo/manolo1/17.ts
+#EXTINF:-1,Space
+http://104.245.96.214:8000/live/manolo/manolo1/76.ts
+#EXTINF:-1,Space SD
+http://104.245.96.214:8000/live/manolo/manolo1/81.ts
+#EXTINF:-1,Studio Universal
+http://104.245.96.214:8000/live/manolo/manolo1/82.ts
+#EXTINF:-1,SyFy
+http://104.245.96.214:8000/live/manolo/manolo1/29.ts
+#EXTINF:-1,TBS
+http://104.245.96.214:8000/live/manolo/manolo1/37.ts
+#EXTINF:-1,TCM
+http://104.245.96.214:8000/live/manolo/manolo1/84.ts
+#EXTINF:-1,TDN
+http://104.245.96.214:8000/live/manolo/manolo1/143.ts
+#EXTINF:-1,Teleformula
+http://104.245.96.214:8000/live/manolo/manolo1/14.ts
+#EXTINF:-1,Telehit
+http://104.245.96.214:8000/live/manolo/manolo1/94.ts
+#EXTINF:-1,Telemundo
+http://104.245.96.214:8000/live/manolo/manolo1/146.ts
+#EXTINF:-1,Telemundo Internacional
+http://104.245.96.214:8000/live/manolo/manolo1/147.ts
+#EXTINF:-1,Telemundo USA
+http://104.245.96.214:8000/live/manolo/manolo1/1994.ts
+#EXTINF:-1,TIIN
+http://104.245.96.214:8000/live/manolo/manolo1/50.ts
+#EXTINF:-1,TLC Discovery
+http://104.245.96.214:8000/live/manolo/manolo1/64.ts
+#EXTINF:-1,TLnovelas
+http://104.245.96.214:8000/live/manolo/manolo1/38.ts
+#EXTINF:-1,TNT
+http://104.245.96.214:8000/live/manolo/manolo1/71.ts
+#EXTINF:-1,TNT Series
+http://104.245.96.214:8000/live/manolo/manolo1/32.ts
+#EXTINF:-1,Tooncast
+http://104.245.96.214:8000/live/manolo/manolo1/51.ts
+#EXTINF:-1,Tru TV
+http://104.245.96.214:8000/live/manolo/manolo1/22.ts
+#EXTINF:-1,TVE Internacional
+http://104.245.96.214:8000/live/manolo/manolo1/92.ts
+#EXTINF:-1,UFC / FIGHTING
+http://104.245.96.214:8000/live/manolo/manolo1/116.ts
+#EXTINF:-1,UK: B0X N4t10n
+http://104.245.96.214:8000/live/manolo/manolo1/173.ts
+#EXTINF:-1,UK: BeTe Sp0rt 1
+http://104.245.96.214:8000/live/manolo/manolo1/180.ts
+#EXTINF:-1,UK: BeTe Sp0rt 2
+http://104.245.96.214:8000/live/manolo/manolo1/181.ts
+#EXTINF:-1,UK: BeTe Sp0rt 3
+http://104.245.96.214:8000/live/manolo/manolo1/182.ts
+#EXTINF:-1,UK: €ur0zport 1
+http://104.245.96.214:8000/live/manolo/manolo1/170.ts
+#EXTINF:-1,UK: €ur0zport 2
+http://104.245.96.214:8000/live/manolo/manolo1/171.ts
+#EXTINF:-1,UK: 1TV 2
+http://104.245.96.214:8000/live/manolo/manolo1/163.ts
+#EXTINF:-1,UK: 1TV 3
+http://104.245.96.214:8000/live/manolo/manolo1/164.ts
+#EXTINF:-1,UK: 1TV 4
+http://104.245.96.214:8000/live/manolo/manolo1/165.ts
+#EXTINF:-1,UK: 1TV €ncore
+http://104.245.96.214:8000/live/manolo/manolo1/162.ts
+#EXTINF:-1,UK: MUTV
+http://104.245.96.214:8000/live/manolo/manolo1/172.ts
+#EXTINF:-1,UK: ZKY F0rmuIa 1
+http://104.245.96.214:8000/live/manolo/manolo1/179.ts
+#EXTINF:-1,UK: ZKY Zp0rts 1
+http://104.245.96.214:8000/live/manolo/manolo1/174.ts
+#EXTINF:-1,UK: ZKY Zp0rts 2
+http://104.245.96.214:8000/live/manolo/manolo1/175.ts
+#EXTINF:-1,UK: ZKY Zp0rts 3
+http://104.245.96.214:8000/live/manolo/manolo1/176.ts
+#EXTINF:-1,UK: ZKY Zp0rts 4
+http://104.245.96.214:8000/live/manolo/manolo1/177.ts
+#EXTINF:-1,UK: ZKY Zp0rts 5
+http://104.245.96.214:8000/live/manolo/manolo1/178.ts
+#EXTINF:-1,UK: ZKY Zp0rts N€ws
+http://104.245.96.214:8000/live/manolo/manolo1/166.ts
+#EXTINF:-1,Unicable
+http://104.245.96.214:8000/live/manolo/manolo1/24.ts
+#EXTINF:-1,UniMAS
+http://104.245.96.214:8000/live/manolo/manolo1/148.ts
+#EXTINF:-1,Universal
+http://104.245.96.214:8000/live/manolo/manolo1/19.ts
+#EXTINF:-1,Universal Channel
+http://104.245.96.214:8000/live/manolo/manolo1/28.ts
+#EXTINF:-1,Univision
+http://104.245.96.214:8000/live/manolo/manolo1/149.ts
+#EXTINF:-1,Univision Deportes
+http://104.245.96.214:8000/live/manolo/manolo1/259.ts
+#EXTINF:-1,Univision TDN
+http://104.245.96.214:8000/live/manolo/manolo1/145.ts
+#EXTINF:-1,UR: VTV HD
+http://104.245.96.214:8000/live/manolo/manolo1/293.ts
+#EXTINF:-1,US: FOX Sports 2
+http://104.245.96.214:8000/live/manolo/manolo1/167.ts
+#EXTINF:-1,US: NFL Network
+http://104.245.96.214:8000/live/manolo/manolo1/168.ts
+#EXTINF:-1,US: WWE Network
+http://104.245.96.214:8000/live/manolo/manolo1/169.ts
+#EXTINF:-1,USA: CBS
+http://104.245.96.214:8000/live/manolo/manolo1/201.ts
+#EXTINF:-1,USA: CBSN
+http://104.245.96.214:8000/live/manolo/manolo1/205.ts
+#EXTINF:-1,USA: CNBC
+http://104.245.96.214:8000/live/manolo/manolo1/194.ts
+#EXTINF:-1,USA: CNN
+http://104.245.96.214:8000/live/manolo/manolo1/195.ts
+#EXTINF:-1,USA: FOX Sport1 US
+http://104.245.96.214:8000/live/manolo/manolo1/204.ts
+#EXTINF:-1,USA: Golf
+http://104.245.96.214:8000/live/manolo/manolo1/208.ts
+#EXTINF:-1,USA: NBA TV
+http://104.245.96.214:8000/live/manolo/manolo1/196.ts
+#EXTINF:-1,USA: TBS
+http://104.245.96.214:8000/live/manolo/manolo1/206.ts
+#EXTINF:-1,USA: TSN1
+http://104.245.96.214:8000/live/manolo/manolo1/197.ts
+#EXTINF:-1,USA: TSN2
+http://104.245.96.214:8000/live/manolo/manolo1/198.ts
+#EXTINF:-1,USA: TSN4
+http://104.245.96.214:8000/live/manolo/manolo1/199.ts
+#EXTINF:-1,USA: TSN5
+http://104.245.96.214:8000/live/manolo/manolo1/200.ts
+#EXTINF:-1,USA || A&E
+http://104.245.96.214:8000/live/manolo/manolo1/3006.ts
+#EXTINF:-1,USA || ABC
+http://104.245.96.214:8000/live/manolo/manolo1/3005.ts
+#EXTINF:-1,USA || ABC News
+http://104.245.96.214:8000/live/manolo/manolo1/3004.ts
+#EXTINF:-1,USA || AMC
+http://104.245.96.214:8000/live/manolo/manolo1/3003.ts
+#EXTINF:-1,USA || Animal Planet
+http://104.245.96.214:8000/live/manolo/manolo1/3002.ts
+#EXTINF:-1,USA || BBC America
+http://104.245.96.214:8000/live/manolo/manolo1/3001.ts
+#EXTINF:-1,USA || Bein Sports
+http://104.245.96.214:8000/live/manolo/manolo1/3000.ts
+#EXTINF:-1,USA || Bravo
+http://104.245.96.214:8000/live/manolo/manolo1/2999.ts
+#EXTINF:-1,USA || Cartoon Network
+http://104.245.96.214:8000/live/manolo/manolo1/2998.ts
+#EXTINF:-1,USA || CBS
+http://104.245.96.214:8000/live/manolo/manolo1/2997.ts
+#EXTINF:-1,USA || CBSN
+http://104.245.96.214:8000/live/manolo/manolo1/2996.ts
+#EXTINF:-1,USA || Cinemax
+http://104.245.96.214:8000/live/manolo/manolo1/2995.ts
+#EXTINF:-1,USA || Cinemax Moremax
+http://104.245.96.214:8000/live/manolo/manolo1/2994.ts
+#EXTINF:-1,USA || Cinemax Thrillermax
+http://104.245.96.214:8000/live/manolo/manolo1/2993.ts
+#EXTINF:-1,USA || CNBC
+http://104.245.96.214:8000/live/manolo/manolo1/2992.ts
+#EXTINF:-1,USA || CNN
+http://104.245.96.214:8000/live/manolo/manolo1/2991.ts
+#EXTINF:-1,USA || Comedy Central
+http://104.245.96.214:8000/live/manolo/manolo1/2990.ts
+#EXTINF:-1,USA || Cooking Channel
+http://104.245.96.214:8000/live/manolo/manolo1/2989.ts
+#EXTINF:-1,USA || Crime and Investigation
+http://104.245.96.214:8000/live/manolo/manolo1/2988.ts
+#EXTINF:-1,USA || Destination America
+http://104.245.96.214:8000/live/manolo/manolo1/2987.ts
+#EXTINF:-1,USA || Discovery Channel
+http://104.245.96.214:8000/live/manolo/manolo1/2986.ts
+#EXTINF:-1,USA || Discovery Family
+http://104.245.96.214:8000/live/manolo/manolo1/2985.ts
+#EXTINF:-1,USA || Discovery Science
+http://104.245.96.214:8000/live/manolo/manolo1/2984.ts
+#EXTINF:-1,USA || Discovery Velocity
+http://104.245.96.214:8000/live/manolo/manolo1/2983.ts
+#EXTINF:-1,USA || Disney Channel
+http://104.245.96.214:8000/live/manolo/manolo1/2982.ts
+#EXTINF:-1,USA || Disney Jr
+http://104.245.96.214:8000/live/manolo/manolo1/2981.ts
+#EXTINF:-1,USA || Disney XD
+http://104.245.96.214:8000/live/manolo/manolo1/2980.ts
+#EXTINF:-1,USA || DIY Network
+http://104.245.96.214:8000/live/manolo/manolo1/2979.ts
+#EXTINF:-1,USA || E!
+http://104.245.96.214:8000/live/manolo/manolo1/2978.ts
+#EXTINF:-1,USA || ESPN
+http://104.245.96.214:8000/live/manolo/manolo1/2977.ts
+#EXTINF:-1,USA || ESPN 2
+http://104.245.96.214:8000/live/manolo/manolo1/2976.ts
+#EXTINF:-1,USA || Food Network
+http://104.245.96.214:8000/live/manolo/manolo1/2975.ts
+#EXTINF:-1,USA || Fox
+http://104.245.96.214:8000/live/manolo/manolo1/2974.ts
+#EXTINF:-1,USA || Fox News
+http://104.245.96.214:8000/live/manolo/manolo1/2973.ts
+#EXTINF:-1,USA || Fox Sports 1
+http://104.245.96.214:8000/live/manolo/manolo1/2972.ts
+#EXTINF:-1,USA || Fox Sports 2
+http://104.245.96.214:8000/live/manolo/manolo1/2971.ts
+#EXTINF:-1,USA || Freeform
+http://104.245.96.214:8000/live/manolo/manolo1/2970.ts
+#EXTINF:-1,USA || FX
+http://104.245.96.214:8000/live/manolo/manolo1/2969.ts
+#EXTINF:-1,USA || FXX
+http://104.245.96.214:8000/live/manolo/manolo1/2968.ts
+#EXTINF:-1,USA || H2 HD
+http://104.245.96.214:8000/live/manolo/manolo1/2967.ts
+#EXTINF:-1,USA || Hallmark
+http://104.245.96.214:8000/live/manolo/manolo1/2966.ts
+#EXTINF:-1,USA || Hallmark Movies & Mysteries
+http://104.245.96.214:8000/live/manolo/manolo1/2965.ts
+#EXTINF:-1,USA || HBO
+http://104.245.96.214:8000/live/manolo/manolo1/2964.ts
+#EXTINF:-1,USA || HBO 2
+http://104.245.96.214:8000/live/manolo/manolo1/2963.ts
+#EXTINF:-1,USA || HBO Comedy
+http://104.245.96.214:8000/live/manolo/manolo1/2962.ts
+#EXTINF:-1,USA || HBO Family
+http://104.245.96.214:8000/live/manolo/manolo1/2961.ts
+#EXTINF:-1,USA || HBO Signature
+http://104.245.96.214:8000/live/manolo/manolo1/2960.ts
+#EXTINF:-1,USA || HBO Zone
+http://104.245.96.214:8000/live/manolo/manolo1/2959.ts
+#EXTINF:-1,USA || HGTV
+http://104.245.96.214:8000/live/manolo/manolo1/2958.ts
+#EXTINF:-1,USA || History Channel
+http://104.245.96.214:8000/live/manolo/manolo1/2957.ts
+#EXTINF:-1,USA || Investigation Discovery
+http://104.245.96.214:8000/live/manolo/manolo1/2956.ts
+#EXTINF:-1,USA || Lifetime
+http://104.245.96.214:8000/live/manolo/manolo1/2955.ts
+#EXTINF:-1,USA || MLB Network
+http://104.245.96.214:8000/live/manolo/manolo1/2954.ts
+#EXTINF:-1,USA || MSNBC
+http://104.245.96.214:8000/live/manolo/manolo1/2953.ts
+#EXTINF:-1,USA || MTV
+http://104.245.96.214:8000/live/manolo/manolo1/2952.ts
+#EXTINF:-1,USA || Nat Geo
+http://104.245.96.214:8000/live/manolo/manolo1/2951.ts
+#EXTINF:-1,USA || Nat Geo Wild
+http://104.245.96.214:8000/live/manolo/manolo1/2950.ts
+#EXTINF:-1,USA || NBA TV
+http://104.245.96.214:8000/live/manolo/manolo1/2949.ts
+#EXTINF:-1,USA || NBC
+http://104.245.96.214:8000/live/manolo/manolo1/2948.ts
+#EXTINF:-1,USA || NBC Golf
+http://104.245.96.214:8000/live/manolo/manolo1/2947.ts
+#EXTINF:-1,USA || NBCSN
+http://104.245.96.214:8000/live/manolo/manolo1/2946.ts
+#EXTINF:-1,USA || NFL Network
+http://104.245.96.214:8000/live/manolo/manolo1/2945.ts
+#EXTINF:-1,USA || Nick JR
+http://104.245.96.214:8000/live/manolo/manolo1/2944.ts
+#EXTINF:-1,USA || Nick Toons
+http://104.245.96.214:8000/live/manolo/manolo1/2943.ts
+#EXTINF:-1,USA || Nickelodeon
+http://104.245.96.214:8000/live/manolo/manolo1/2942.ts
+#EXTINF:-1,USA || Official Olympic Channel
+http://104.245.96.214:8000/live/manolo/manolo1/2941.ts
+#EXTINF:-1,USA || Showcase
+http://104.245.96.214:8000/live/manolo/manolo1/2940.ts
+#EXTINF:-1,USA || Showtime
+http://104.245.96.214:8000/live/manolo/manolo1/2939.ts
+#EXTINF:-1,USA || Showtime 2
+http://104.245.96.214:8000/live/manolo/manolo1/2938.ts
+#EXTINF:-1,USA || Showtime Family Zone
+http://104.245.96.214:8000/live/manolo/manolo1/2937.ts
+#EXTINF:-1,USA || Spike
+http://104.245.96.214:8000/live/manolo/manolo1/2936.ts
+#EXTINF:-1,USA || Starz Cinema
+http://104.245.96.214:8000/live/manolo/manolo1/2935.ts
+#EXTINF:-1,USA || Starz East
+http://104.245.96.214:8000/live/manolo/manolo1/2934.ts
+#EXTINF:-1,USA || Starz Kids and Family
+http://104.245.96.214:8000/live/manolo/manolo1/2933.ts
+#EXTINF:-1,USA || Sundance TV
+http://104.245.96.214:8000/live/manolo/manolo1/2932.ts
+#EXTINF:-1,USA || SyFy
+http://104.245.96.214:8000/live/manolo/manolo1/2931.ts
+#EXTINF:-1,USA || TBS
+http://104.245.96.214:8000/live/manolo/manolo1/2930.ts
+#EXTINF:-1,USA || Tennis Channel
+http://104.245.96.214:8000/live/manolo/manolo1/2929.ts
+#EXTINF:-1,USA || The CW Network
+http://104.245.96.214:8000/live/manolo/manolo1/2928.ts
+#EXTINF:-1,USA || TLC
+http://104.245.96.214:8000/live/manolo/manolo1/2927.ts
+#EXTINF:-1,USA || TNT
+http://104.245.96.214:8000/live/manolo/manolo1/2926.ts
+#EXTINF:-1,USA || Travel Channel
+http://104.245.96.214:8000/live/manolo/manolo1/2925.ts
+#EXTINF:-1,USA || Tru TV
+http://104.245.96.214:8000/live/manolo/manolo1/2924.ts
+#EXTINF:-1,USA || TV Land
+http://104.245.96.214:8000/live/manolo/manolo1/2923.ts
+#EXTINF:-1,USA || USA Network
+http://104.245.96.214:8000/live/manolo/manolo1/2922.ts
+#EXTINF:-1,USA || VH1
+http://104.245.96.214:8000/live/manolo/manolo1/2921.ts
+#EXTINF:-1,USA || WWE
+http://104.245.96.214:8000/live/manolo/manolo1/2920.ts
+#EXTINF:-1,USA || MLB Extra Innings 720
+http://104.245.96.214:8000/live/manolo/manolo1/3045.ts
+#EXTINF:-1,USA || MLB Extra Innings 721
+http://104.245.96.214:8000/live/manolo/manolo1/3044.ts
+#EXTINF:-1,USA || MLB Extra Innings 722
+http://104.245.96.214:8000/live/manolo/manolo1/3043.ts
+#EXTINF:-1,USA || MLB Extra Innings 723
+http://104.245.96.214:8000/live/manolo/manolo1/3042.ts
+#EXTINF:-1,USA || MLB Extra Innings 724
+http://104.245.96.214:8000/live/manolo/manolo1/3041.ts
+#EXTINF:-1,USA || MLB Extra Innings 725
+http://104.245.96.214:8000/live/manolo/manolo1/3040.ts
+#EXTINF:-1,USA || MLB Extra Innings 726
+http://104.245.96.214:8000/live/manolo/manolo1/3039.ts
+#EXTINF:-1,USA || MLB Extra Innings 727
+http://104.245.96.214:8000/live/manolo/manolo1/3038.ts
+#EXTINF:-1,USA || MLB Extra Innings 728
+http://104.245.96.214:8000/live/manolo/manolo1/3037.ts
+#EXTINF:-1,USA || MLB Extra Innings 729
+http://104.245.96.214:8000/live/manolo/manolo1/3036.ts
+#EXTINF:-1,USA || MLB Extra Innings 730
+http://104.245.96.214:8000/live/manolo/manolo1/3035.ts
+#EXTINF:-1,USA || MLB Extra Innings 731
+http://104.245.96.214:8000/live/manolo/manolo1/3034.ts
+#EXTINF:-1,USA || MLB Extra Innings 732
+http://104.245.96.214:8000/live/manolo/manolo1/3033.ts
+#EXTINF:-1,USA || MLB Extra Innings 733
+http://104.245.96.214:8000/live/manolo/manolo1/3032.ts
+#EXTINF:-1,USA || MLB Extra Innings 734
+http://104.245.96.214:8000/live/manolo/manolo1/3031.ts
+#EXTINF:-1,USA || MLB Extra Innings 735
+http://104.245.96.214:8000/live/manolo/manolo1/3030.ts
+#EXTINF:-1,USA || MLB Extra Innings 736
+http://104.245.96.214:8000/live/manolo/manolo1/3029.ts
+#EXTINF:-1,USA || MLB Extra Innings 737
+http://104.245.96.214:8000/live/manolo/manolo1/3028.ts
+#EXTINF:-1,USA || MLB Extra Innings 738
+http://104.245.96.214:8000/live/manolo/manolo1/3027.ts
+#EXTINF:-1,USA || MLB Extra Innings 739
+http://104.245.96.214:8000/live/manolo/manolo1/3026.ts
+#EXTINF:-1,USA || MLB Extra Innings 740
+http://104.245.96.214:8000/live/manolo/manolo1/3025.ts
+#EXTINF:-1,USA || MLB Extra Innings 741
+http://104.245.96.214:8000/live/manolo/manolo1/3024.ts
+#EXTINF:-1,USA || MLB Extra Innings 742
+http://104.245.96.214:8000/live/manolo/manolo1/3023.ts
+#EXTINF:-1,USA || MLB Extra Innings 743
+http://104.245.96.214:8000/live/manolo/manolo1/3022.ts
+#EXTINF:-1,USA || MLB Extra Innings 744
+http://104.245.96.214:8000/live/manolo/manolo1/3021.ts
+#EXTINF:-1,USA || MLB Extra Innings 745
+http://104.245.96.214:8000/live/manolo/manolo1/3020.ts
+#EXTINF:-1,USA || MLB Extra Innings 746
+http://104.245.96.214:8000/live/manolo/manolo1/3019.ts
+#EXTINF:-1,USA || MLB Extra Innings 747
+http://104.245.96.214:8000/live/manolo/manolo1/3018.ts
+#EXTINF:-1,USA || MLB Extra Innings 748
+http://104.245.96.214:8000/live/manolo/manolo1/3017.ts
+#EXTINF:-1,USA || MLB Extra Innings 749
+http://104.245.96.214:8000/live/manolo/manolo1/3016.ts
+#EXTINF:-1,USA || MLB League Pass 1 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3061.ts
+#EXTINF:-1,USA || MLB League Pass 10 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3060.ts
+#EXTINF:-1,USA || MLB League Pass 11 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3059.ts
+#EXTINF:-1,USA || MLB League Pass 12 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3058.ts
+#EXTINF:-1,USA || MLB League Pass 13 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3057.ts
+#EXTINF:-1,USA || MLB League Pass 14 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3056.ts
+#EXTINF:-1,USA || MLB League Pass 15 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3055.ts
+#EXTINF:-1,USA || MLB League Pass 16 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3054.ts
+#EXTINF:-1,USA || MLB League Pass 2 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3053.ts
+#EXTINF:-1,USA || MLB League Pass 3 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3052.ts
+#EXTINF:-1,USA || MLB League Pass 4 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3051.ts
+#EXTINF:-1,USA || MLB League Pass 5 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3050.ts
+#EXTINF:-1,USA || MLB League Pass 6 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3049.ts
+#EXTINF:-1,USA || MLB League Pass 7 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3048.ts
+#EXTINF:-1,USA || MLB League Pass 8 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3047.ts
+#EXTINF:-1,USA || MLB League Pass 9 HD
+http://104.245.96.214:8000/live/manolo/manolo1/3046.ts
+#EXTINF:-1,USA || Sunday Ticket- NFL: 1
+http://104.245.96.214:8000/live/manolo/manolo1/3015.ts
+#EXTINF:-1,USA || Sunday Ticket- NFL: 2
+http://104.245.96.214:8000/live/manolo/manolo1/3014.ts
+#EXTINF:-1,USA || Sunday Ticket- NFL: 3
+http://104.245.96.214:8000/live/manolo/manolo1/3013.ts
+#EXTINF:-1,USA || Sunday Ticket- NFL: 4
+http://104.245.96.214:8000/live/manolo/manolo1/3012.ts
+#EXTINF:-1,USA || Sunday Ticket- NFL: 5
+http://104.245.96.214:8000/live/manolo/manolo1/3011.ts
+#EXTINF:-1,USA || Sunday Ticket- NFL: 6
+http://104.245.96.214:8000/live/manolo/manolo1/3010.ts
+#EXTINF:-1,USA || Sunday Ticket- NFL: 7
+http://104.245.96.214:8000/live/manolo/manolo1/3009.ts
+#EXTINF:-1,USA || Sunday Ticket- NFL: 8
+http://104.245.96.214:8000/live/manolo/manolo1/3008.ts
+#EXTINF:-1,USA || Sunday Ticket- NFL: 9
+http://104.245.96.214:8000/live/manolo/manolo1/3007.ts
+#EXTINF:-1,USA | NBA Live 1
+http://104.245.96.214:8000/live/manolo/manolo1/679.ts
+#EXTINF:-1,USA | NBA Live 10
+http://104.245.96.214:8000/live/manolo/manolo1/678.ts
+#EXTINF:-1,USA | NBA Live 2
+http://104.245.96.214:8000/live/manolo/manolo1/677.ts
+#EXTINF:-1,USA | NBA Live 3
+http://104.245.96.214:8000/live/manolo/manolo1/676.ts
+#EXTINF:-1,USA | NBA Live 4
+http://104.245.96.214:8000/live/manolo/manolo1/675.ts
+#EXTINF:-1,USA | NBA Live 5
+http://104.245.96.214:8000/live/manolo/manolo1/674.ts
+#EXTINF:-1,USA | NBA Live 6
+http://104.245.96.214:8000/live/manolo/manolo1/673.ts
+#EXTINF:-1,USA | NBA Live 7
+http://104.245.96.214:8000/live/manolo/manolo1/672.ts
+#EXTINF:-1,USA | NBA Live 8
+http://104.245.96.214:8000/live/manolo/manolo1/671.ts
+#EXTINF:-1,USA | NBA Live 9
+http://104.245.96.214:8000/live/manolo/manolo1/670.ts
+#EXTINF:-1,USA | NHL HD 1
+http://104.245.96.214:8000/live/manolo/manolo1/653.ts
+#EXTINF:-1,USA | NHL HD 10
+http://104.245.96.214:8000/live/manolo/manolo1/652.ts
+#EXTINF:-1,USA | NHL HD 2
+http://104.245.96.214:8000/live/manolo/manolo1/648.ts
+#EXTINF:-1,USA | NHL HD 3
+http://104.245.96.214:8000/live/manolo/manolo1/647.ts
+#EXTINF:-1,USA | NHL HD 4
+http://104.245.96.214:8000/live/manolo/manolo1/646.ts
+#EXTINF:-1,USA | NHL HD 5
+http://104.245.96.214:8000/live/manolo/manolo1/645.ts
+#EXTINF:-1,USA | NHL HD 6
+http://104.245.96.214:8000/live/manolo/manolo1/644.ts
+#EXTINF:-1,USA | NHL HD 7
+http://104.245.96.214:8000/live/manolo/manolo1/643.ts
+#EXTINF:-1,USA | NHL HD 8
+http://104.245.96.214:8000/live/manolo/manolo1/642.ts
+#EXTINF:-1,USA | NHL HD 9
+http://104.245.96.214:8000/live/manolo/manolo1/641.ts
+#EXTINF:-1,VE: La Teletuya
+http://104.245.96.214:8000/live/manolo/manolo1/271.ts
+#EXTINF:-1,VE: Telesur
+http://104.245.96.214:8000/live/manolo/manolo1/2761.ts
+#EXTINF:-1,VH1
+http://104.245.96.214:8000/live/manolo/manolo1/95.ts
+#EXTINF:-1,VH1 Classics
+http://104.245.96.214:8000/live/manolo/manolo1/98.ts
+#EXTINF:-1,Warner Channel
+http://104.245.96.214:8000/live/manolo/manolo1/18.ts
+#EXTINF:-1,PPV: 1 (Solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/1482.ts
+#EXTINF:-1,PPV: 2 (Solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/1483.ts
+#EXTINF:-1,PPV: 3 (Solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/1484.ts
+#EXTINF:-1,PPV: 4 (Solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/1485.ts
+#EXTINF:-1,PPV: 5 (Solo eventos)
+http://104.245.96.214:8000/live/manolo/manolo1/1486.ts
+#EXTINF:-1,PPV: 6 (Solo eventos)
 
+http://104.245.96.214:8000/live/manolo/manolo1/1487.ts
